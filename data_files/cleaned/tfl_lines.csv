@@ -1,0 +1,576 @@
+station,line,zone
+Abbey Wood,Elizabeth Line,4.0
+Acton Central,London Overground,2.0
+Acton Main Line,Elizabeth Line,3.0
+Acton Town,Piccadilly Line,3.0
+Acton Town,District Line,3.0
+Aldgate,Circle Line,1.0
+Aldgate,Metropolitan Line,1.0
+Aldgate East,Hammersmith & City Line,1.0
+Aldgate East,District Line,1.0
+All Saints,Docklands Light Railway,2.0
+Alperton,Piccadilly Line,4.0
+Amersham,Metropolitan Line,9.0
+Anerley,London Overground,4.0
+Angel,Northern Line,1.0
+Archway,Northern Line,2.5
+Arnos Grove,Piccadilly Line,4.0
+Arsenal,Piccadilly Line,2.0
+Baker Street,Metropolitan Line,1.0
+Baker Street,Hammersmith & City Line,1.0
+Baker Street,Jubilee Line,1.0
+Baker Street,Bakerloo Line,1.0
+Baker Street,Circle Line,1.0
+Balham,Northern Line,3.0
+Bank,Northern Line,1.0
+Bank,Central Line,1.0
+Bank,Docklands Light Railway,1.0
+Bank,Waterloo & City Line,1.0
+Barbican,Circle Line,1.0
+Barbican,Metropolitan Line,1.0
+Barbican,Hammersmith & City Line,1.0
+Barking,Hammersmith & City Line,4.0
+Barking,District Line,4.0
+Barking,London Overground,4.0
+Barking Riverside,London Overground,4.0
+Barkingside,Central Line,4.0
+Barons Court,District Line,2.0
+Barons Court,Piccadilly Line,2.0
+Bayswater,District Line,1.0
+Bayswater,Circle Line,1.0
+Beckton,Docklands Light Railway,3.0
+Beckton Park,Docklands Light Railway,3.0
+Becontree,District Line,5.0
+Belsize Park,Northern Line,2.0
+Bermondsey,Jubilee Line,2.0
+Bethnal Green,Central Line,2.0
+Bethnal Green,London Overground,2.0
+Blackfriars,Circle Line,1.0
+Blackfriars,District Line,1.0
+Blackhorse Road,Victoria Line,3.0
+Blackhorse Road,London Overground,3.0
+Blackwall,Docklands Light Railway,2.0
+Bond Street,Elizabeth Line,1.0
+Bond Street,Jubilee Line,1.0
+Bond Street,Central Line,1.0
+Borough,Northern Line,1.0
+Boston Manor,Piccadilly Line,4.0
+Bounds Green,Piccadilly Line,3.5
+Bow Church,Docklands Light Railway,2.0
+Bow Road,Hammersmith & City Line,2.0
+Bow Road,District Line,2.0
+Brent Cross,Northern Line,3.0
+Brentwood,Elizabeth Line,7.0
+Brixton,Victoria Line,2.0
+Brockley,London Overground,2.0
+Bromley-By-Bow,District Line,2.5
+Bromley-By-Bow,Hammersmith & City Line,2.5
+Brondesbury,London Overground,2.0
+Brondesbury Park,London Overground,2.0
+Bruce Grove,London Overground,3.0
+Buckhurst Hill,Central Line,5.0
+Burnham,Elizabeth Line,
+Burnt Oak,Northern Line,4.0
+Bush Hill Park,London Overground,5.0
+Bushey,London Overground,8.0
+Caledonian Road,Piccadilly Line,2.0
+Caledonian Road and Barnsbury,London Overground,2.0
+Cambridge Heath,London Overground,2.0
+Camden Road,London Overground,2.0
+Camden Town,Northern Line,2.0
+Canada Water,Jubilee Line,2.0
+Canada Water,London Overground,2.0
+Canada Water,East London Line,2.0
+Canary Wharf,Elizabeth Line,2.0
+Canary Wharf,Jubilee Line,2.0
+Canary Wharf,Docklands Light Railway,2.0
+Canning Town,Docklands Light Railway,2.5
+Canning Town,Jubilee Line,2.5
+Cannon Street,District Line,1.0
+Cannon Street,Circle Line,1.0
+Canonbury,London Overground,2.0
+Canons Park,Jubilee Line,5.0
+Carpenders Park,London Overground,7.0
+Chadwell Heath,Elizabeth Line,5.0
+Chalfont & Latimer,Metropolitan Line,8.0
+Chalk Farm,Northern Line,2.0
+Chancery Lane,Central Line,1.0
+Charing Cross,Bakerloo Line,1.0
+Charing Cross,Northern Line,1.0
+Chesham,Metropolitan Line,9.0
+Cheshunt,London Overground,8.0
+Chigwell,Central Line,4.0
+Chingford,London Overground,5.0
+Chiswick Park,District Line,3.0
+Chorleywood,Metropolitan Line,7.0
+Clapham Common,Northern Line,2.0
+Clapham High Street,London Overground,2.0
+Clapham Junction,London Overground,2.0
+Clapham North,Northern Line,2.0
+Clapham South,Northern Line,2.5
+Clapton,London Overground,2.0
+Cockfosters,Piccadilly Line,5.0
+Colindale,Northern Line,4.0
+Colliers Wood,Northern Line,3.0
+Covent Garden,Piccadilly Line,1.0
+Crossharbour & London Arena,Docklands Light Railway,2.0
+Crouch Hill,London Overground,3.0
+Croxley,Metropolitan Line,7.0
+Crystal Palace,London Overground,3.5
+Custom House,Docklands Light Railway,3.0
+Custom House,Elizabeth Line,3.0
+Cutty Sark,Docklands Light Railway,2.5
+Cyprus,Docklands Light Railway,3.0
+Dagenham East,District Line,5.0
+Dagenham Heathway,District Line,5.0
+Dalston Junction,London Overground,2.0
+Dalston Kingsland,London Overground,2.0
+Debden,Central Line,6.0
+Denmark Hill,London Overground,2.0
+Deptford Bridge,Docklands Light Railway,2.5
+Devons Road,Docklands Light Railway,2.0
+Dollis Hill,Jubilee Line,3.0
+Ealing Broadway,Elizabeth Line,3.0
+Ealing Broadway,Central Line,3.0
+Ealing Broadway,District Line,3.0
+Ealing Common,Piccadilly Line,3.0
+Ealing Common,District Line,3.0
+Earl's Court,District Line,1.5
+Earl's Court,Piccadilly Line,1.5
+East Acton,Central Line,2.0
+East Finchley,Northern Line,3.0
+East Ham,District Line,3.5
+East Ham,Hammersmith & City Line,3.5
+East India,Docklands Light Railway,2.5
+East Putney,District Line,2.5
+Eastcote,Piccadilly Line,5.0
+Eastcote,Metropolitan Line,5.0
+Edgware,Northern Line,5.0
+Edgware Road (B),Bakerloo Line,1.0
+Edgware Road (C),Hammersmith & City Line,1.0
+Edgware Road (C),District Line,1.0
+Edgware Road (C),Circle Line,1.0
+Edmonton Green,London Overground,4.0
+Elephant & Castle,Bakerloo Line,1.5
+Elephant & Castle,Northern Line,1.5
+Elm Park,District Line,6.0
+Elverson Road,Docklands Light Railway,2.5
+Embankment,Circle Line,1.0
+Embankment,Northern Line,1.0
+Embankment,Bakerloo Line,1.0
+Embankment,District Line,1.0
+Emerson Park,London Overground,6.0
+Enfield Town,London Overground,5.0
+Epping,Central Line,6.0
+Euston,London Overground,1.0
+Euston,Northern Line,1.0
+Euston,Victoria Line,1.0
+Euston Square,Metropolitan Line,1.0
+Euston Square,Hammersmith & City Line,1.0
+Euston Square,Circle Line,1.0
+Fairlop,Central Line,4.0
+Farringdon,Metropolitan Line,1.0
+Farringdon,Circle Line,1.0
+Farringdon,Hammersmith & City Line,1.0
+Farringdon,Elizabeth Line,1.0
+Finchley Central,Northern Line,4.0
+Finchley Road,Metropolitan Line,2.0
+Finchley Road,Jubilee Line,2.0
+Finchley Road and Frognal,London Overground,2.0
+Finsbury Park,Victoria Line,2.0
+Finsbury Park,Piccadilly Line,2.0
+Forest Gate,Elizabeth Line,3.0
+Forest Hill,London Overground,3.0
+Fulham Broadway,District Line,2.0
+Gallions Reach,Docklands Light Railway,3.0
+Gants Hill,Central Line,4.0
+Gidea Park,Elizabeth Line,6.0
+Gloucester Road,Piccadilly Line,1.0
+Gloucester Road,Circle Line,1.0
+Gloucester Road,District Line,1.0
+Golders Green,Northern Line,3.0
+Goldhawk Road,Hammersmith & City Line,2.0
+Goodge Street,Northern Line,1.0
+Goodmayes,Elizabeth Line,4.0
+Gospel Oak,London Overground,2.0
+Grange Hill,Central Line,4.0
+Great Portland Street,Metropolitan Line,1.0
+Great Portland Street,Circle Line,1.0
+Great Portland Street,Hammersmith & City Line,1.0
+Green Park,Victoria Line,1.0
+Green Park,Piccadilly Line,1.0
+Green Park,Jubilee Line,1.0
+Greenford,Central Line,4.0
+Greenwich,Docklands Light Railway,2.5
+Gunnersbury,London Overground,3.0
+Gunnersbury,District Line,3.0
+Hackney Central,London Overground,2.0
+Hackney Downs,London Overground,2.0
+Hackney Wick,London Overground,2.0
+Haggerston,London Overground,2.0
+Hainault,Central Line,4.0
+Hammersmith,Hammersmith & City Line,2.0
+Hammersmith,Piccadilly Line,2.0
+Hammersmith,District Line,2.0
+Hampstead,Northern Line,2.5
+Hampstead Heath,London Overground,3.0
+Hanger Lane,Central Line,3.0
+Hanwell,Elizabeth Line,4.0
+Harlesden,Bakerloo Line,3.0
+Harlesden,London Overground,3.0
+Harold Wood,Elizabeth Line,6.0
+Harringay Green Lanes,London Overground,3.0
+Harrow & Wealdstone,Bakerloo Line,5.0
+Harrow and Wealdstone,London Overground,5.0
+Harrow-on-the-Hill,Metropolitan Line,5.0
+Hatch End,London Overground,6.0
+Hatton Cross,Piccadilly Line,5.5
+Hayes and Harlington,Elizabeth Line,5.0
+Headstone Lane,London Overground,5.0
+Heathrow Terminal 4,Piccadilly Line,6.0
+Heathrow Terminal 4,Elizabeth Line,6.0
+Heathrow Terminal 5,Elizabeth Line,6.0
+Heathrow Terminal 5,Piccadilly Line,6.0
+Heathrow Terminals 1 2 3,Elizabeth Line,6.0
+"Heathrow Terminals 1, 2 & 3",Piccadilly Line,6.0
+Hendon Central,Northern Line,3.5
+Heron Quays,Docklands Light Railway,2.0
+High Barnet,Northern Line,5.0
+High Street Kensington,District Line,1.0
+High Street Kensington,Circle Line,1.0
+Highams Park,London Overground,4.0
+Highbury & Islington,Victoria Line,2.0
+Highbury and Islington,London Overground,2.0
+Highgate,Northern Line,3.0
+Hillingdon,Metropolitan Line,6.0
+Hillingdon,Piccadilly Line,6.0
+Holborn,Central Line,1.0
+Holborn,Piccadilly Line,1.0
+Holland Park,Central Line,2.0
+Holloway Road,Piccadilly Line,2.0
+Homerton,London Overground,2.0
+Honor Oak Park,London Overground,3.0
+Hornchurch,District Line,6.0
+Hounslow Central,Piccadilly Line,4.0
+Hounslow East,Piccadilly Line,4.0
+Hounslow West,Piccadilly Line,5.0
+Hoxton,London Overground,1.5
+Hyde Park Corner,Piccadilly Line,1.0
+Ickenham,Piccadilly Line,6.0
+Ickenham,Metropolitan Line,6.0
+Ilford,Elizabeth Line,4.0
+Imperial Wharf,London Overground,2.0
+Island Gardens,Docklands Light Railway,2.0
+Iver,Elizabeth Line,
+Kennington,Northern Line,2.0
+Kensal Green,London Overground,2.0
+Kensal Green,Bakerloo Line,2.0
+Kensal Rise,London Overground,2.0
+Kensington (Olympia),District Line,2.0
+Kensington (Olympia),London Overground,2.0
+Kentish Town,Northern Line,2.0
+Kentish Town West,London Overground,2.0
+Kenton,Bakerloo Line,4.0
+Kenton,London Overground,4.0
+Kew Gardens,London Overground,3.5
+Kew Gardens,District Line,3.5
+Kilburn,Jubilee Line,2.0
+Kilburn High Road,London Overground,2.0
+Kilburn Park,Bakerloo Line,2.0
+King George V,Docklands Light Railway,3.0
+King's Cross St. Pancras,Northern Line,1.0
+King's Cross St. Pancras,Hammersmith & City Line,1.0
+King's Cross St. Pancras,Victoria Line,1.0
+King's Cross St. Pancras,Circle Line,1.0
+King's Cross St. Pancras,Piccadilly Line,1.0
+King's Cross St. Pancras,Metropolitan Line,1.0
+Kingsbury,Jubilee Line,4.0
+Knightsbridge,Piccadilly Line,1.0
+Ladbroke Grove,Hammersmith & City Line,2.0
+Lambeth North,Bakerloo Line,1.0
+Lancaster Gate,Central Line,1.0
+Langley,Elizabeth Line,
+Latimer Road,Circle Line,2.0
+Latimer Road,Hammersmith & City Line,2.0
+Leicester Square,Northern Line,1.0
+Leicester Square,Piccadilly Line,1.0
+Lewisham,Docklands Light Railway,2.5
+Leyton,Central Line,3.0
+Leyton Midland Road,London Overground,3.0
+Leytonstone,Central Line,3.5
+Leytonstone High Road,London Overground,3.0
+Limehouse,Docklands Light Railway,2.0
+Liverpool Street,Circle Line,1.0
+Liverpool Street,Hammersmith & City Line,1.0
+Liverpool Street,Central Line,1.0
+Liverpool Street,Metropolitan Line,1.0
+Liverpool Street,Elizabeth Line,1.0
+Liverpool Street,London Overground,1.0
+London Bridge,Northern Line,1.0
+London Bridge,Jubilee Line,1.0
+London City Airport,Docklands Light Railway,3.0
+London Fields,London Overground,2.0
+Loughton,Central Line,6.0
+Maida Vale,Bakerloo Line,2.0
+Maidenhead,Elizabeth Line,
+Manor House,Piccadilly Line,2.5
+Manor Park,Elizabeth Line,3.5
+Mansion House,District Line,1.0
+Mansion House,Circle Line,1.0
+Marble Arch,Central Line,1.0
+Maryland,Elizabeth Line,3.0
+Marylebone,Bakerloo Line,1.0
+Mile End,District Line,2.0
+Mile End,Hammersmith & City Line,2.0
+Mile End,Central Line,2.0
+Mill Hill East,Northern Line,4.0
+Monument,Circle Line,1.0
+Monument,District Line,1.0
+Moor Park,Metropolitan Line,6.5
+Moorgate,Northern Line,1.0
+Moorgate,Hammersmith & City Line,1.0
+Moorgate,Metropolitan Line,1.0
+Moorgate,Circle Line,1.0
+Morden,Northern Line,4.0
+Mornington Crescent,Northern Line,2.0
+Mudchute,Docklands Light Railway,2.0
+Neasden,Jubilee Line,3.0
+New Cross,East London Line,2.0
+New Cross,London Overground,2.0
+New Cross Gate,East London Line,2.0
+New Cross Gate,London Overground,2.0
+Newbury Park,Central Line,4.0
+North Acton,Central Line,2.5
+North Ealing,Piccadilly Line,3.0
+North Greenwich,Jubilee Line,2.5
+North Harrow,Metropolitan Line,5.0
+North Wembley,Bakerloo Line,4.0
+North Wembley,London Overground,4.0
+Northfields,Piccadilly Line,3.0
+Northolt,Central Line,5.0
+Northwick Park,Metropolitan Line,4.0
+Northwood,Metropolitan Line,6.0
+Northwood Hills,Metropolitan Line,6.0
+Norwood Junction,London Overground,4.0
+Notting Hill Gate,Circle Line,1.5
+Notting Hill Gate,District Line,1.5
+Notting Hill Gate,Central Line,1.5
+Oakwood,Piccadilly Line,5.0
+Old Street,Northern Line,1.0
+Osterley,Piccadilly Line,4.0
+Oval,Northern Line,2.0
+Oxford Circus,Bakerloo Line,1.0
+Oxford Circus,Central Line,1.0
+Oxford Circus,Victoria Line,1.0
+Paddington,Elizabeth Line,1.0
+Paddington,Circle Line,1.0
+Paddington,Hammersmith & City Line,1.0
+Paddington,District Line,1.0
+Paddington,Bakerloo Line,1.0
+Park Royal,Piccadilly Line,3.0
+Parsons Green,District Line,2.0
+Peckham Rye,London Overground,2.0
+Penge West,London Overground,4.0
+Perivale,Central Line,4.0
+Piccadilly Circus,Piccadilly Line,1.0
+Piccadilly Circus,Bakerloo Line,1.0
+Pimlico,Victoria Line,1.0
+Pinner,Metropolitan Line,5.0
+Plaistow,Hammersmith & City Line,3.0
+Plaistow,District Line,3.0
+Pontoon Dock,Docklands Light Railway,3.0
+Poplar,Docklands Light Railway,2.0
+Preston Road,Metropolitan Line,4.0
+Prince Regent,Docklands Light Railway,3.0
+Pudding Mill Lane,Docklands Light Railway,2.5
+Putney Bridge,District Line,2.0
+Queen's Park,Bakerloo Line,2.0
+Queens Park,London Overground,2.0
+Queens Road Peckham,London Overground,2.0
+Queensbury,Jubilee Line,4.0
+Queensway,Central Line,1.0
+Ravenscourt Park,District Line,2.0
+Rayners Lane,Piccadilly Line,5.0
+Rayners Lane,Metropolitan Line,5.0
+Reading,Elizabeth Line,
+Rectory Road,London Overground,2.0
+Redbridge,Central Line,4.0
+Regent's Park,Bakerloo Line,1.0
+Richmond,District Line,4.0
+Richmond,London Overground,4.0
+Rickmansworth,Metropolitan Line,7.0
+Roding Valley,Central Line,4.0
+Romford,Elizabeth Line,6.0
+Romford,London Overground,6.0
+Rotherhithe,East London Line,2.0
+Rotherhithe,London Overground,2.0
+Royal Albert,Docklands Light Railway,3.0
+Royal Oak,Hammersmith & City Line,2.0
+Royal Victoria,Docklands Light Railway,3.0
+Ruislip,Metropolitan Line,6.0
+Ruislip,Piccadilly Line,6.0
+Ruislip Gardens,Central Line,5.0
+Ruislip Manor,Metropolitan Line,6.0
+Ruislip Manor,Piccadilly Line,6.0
+Russell Square,Piccadilly Line,1.0
+Seven Kings,Elizabeth Line,4.0
+Seven Sisters,Victoria Line,3.0
+Seven Sisters,London Overground,3.0
+Shadwell,London Overground,2.0
+Shadwell,Docklands Light Railway,2.0
+Shadwell,East London Line,2.0
+Shenfield,Elizabeth Line,7.0
+Shepherd's Bush (C),Central Line,2.0
+Shepherd's Bush (H),Hammersmith & City Line,2.0
+Shepherd's Bush (H),Circle Line,2.0
+Shepherds Bush,London Overground,2.0
+Shoreditch,East London Line,2.0
+Shoreditch High Street,London Overground,1.0
+Silver Street,London Overground,4.0
+Sloane Square,District Line,1.0
+Sloane Square,Circle Line,1.0
+Slough,Elizabeth Line,
+Snaresbrook,Central Line,4.0
+South Acton,London Overground,3.0
+South Ealing,Piccadilly Line,3.0
+South Hampstead,London Overground,2.0
+South Harrow,Piccadilly Line,5.0
+South Kensington,Piccadilly Line,1.0
+South Kensington,Circle Line,1.0
+South Kensington,District Line,1.0
+South Kenton,Bakerloo Line,4.0
+South Kenton,London Overground,4.0
+South Quay,Docklands Light Railway,2.0
+South Ruislip,Central Line,5.0
+South Tottenham,London Overground,3.0
+South Wimbledon,Northern Line,3.5
+South Woodford,Central Line,4.0
+Southall,Elizabeth Line,4.0
+Southbury,London Overground,5.0
+Southfields,District Line,3.0
+Southgate,Piccadilly Line,4.0
+Southwark,Jubilee Line,1.0
+St James Street,London Overground,3.0
+St. James's Park,Circle Line,1.0
+St. James's Park,District Line,1.0
+St. John's Wood,Jubilee Line,2.0
+St. Paul's,Central Line,1.0
+Stamford Brook,District Line,2.0
+Stamford Hill,London Overground,3.0
+Stanmore,Jubilee Line,5.0
+Stepney Green,Hammersmith & City Line,2.0
+Stepney Green,District Line,2.0
+Stockwell,Victoria Line,2.0
+Stockwell,Northern Line,2.0
+Stoke Newington,London Overground,2.0
+Stonebridge Park,Bakerloo Line,3.0
+Stonebridge Park,London Overground,3.0
+Stratford,Elizabeth Line,3.0
+Stratford,London Overground,3.0
+Stratford,Central Line,2.5
+Stratford,Jubilee Line,2.5
+Stratford,Docklands Light Railway,2.5
+Sudbury Hill,Piccadilly Line,4.0
+Sudbury Town,Piccadilly Line,4.0
+Surrey Quays,East London Line,2.0
+Surrey Quays,London Overground,2.0
+Swiss Cottage,Jubilee Line,2.0
+Sydenham,London Overground,3.0
+Taplow,Elizabeth Line,
+Temple,Circle Line,1.0
+Temple,District Line,1.0
+Theobalds Grove,London Overground,7.0
+Theydon Bois,Central Line,6.0
+Tooting Bec,Northern Line,3.0
+Tooting Broadway,Northern Line,3.0
+Tottenham Court Road,Elizabeth Line,1.0
+Tottenham Court Road,Northern Line,1.0
+Tottenham Court Road,Central Line,1.0
+Tottenham Hale,Victoria Line,3.0
+Totteridge & Whetstone,Northern Line,4.0
+Tower Gateway,Docklands Light Railway,1.0
+Tower Hill,District Line,1.0
+Tower Hill,Circle Line,1.0
+Tufnell Park,Northern Line,2.0
+Turkey Street,London Overground,6.0
+Turnham Green,Piccadilly Line,2.5
+Turnham Green,District Line,2.5
+Turnpike Lane,Piccadilly Line,3.0
+Twyford,Elizabeth Line,
+Upminster,District Line,6.0
+Upminster,London Overground,6.0
+Upminster Bridge,District Line,6.0
+Upney,District Line,4.0
+Upper Holloway,London Overground,2.0
+Upton Park,Hammersmith & City Line,3.0
+Upton Park,District Line,3.0
+Uxbridge,Piccadilly Line,6.0
+Uxbridge,Metropolitan Line,6.0
+Vauxhall,Victoria Line,1.5
+Victoria,District Line,1.0
+Victoria,Circle Line,1.0
+Victoria,Victoria Line,1.0
+Walthamstow Central,London Overground,3.0
+Walthamstow Central,Victoria Line,3.0
+Walthamstow Queens Road,London Overground,3.0
+Wandsworth Road,London Overground,2.0
+Wanstead,Central Line,4.0
+Wanstead Park,London Overground,3.0
+Wapping,East London Line,2.0
+Wapping,London Overground,2.0
+Warren Street,Northern Line,1.0
+Warren Street,Victoria Line,1.0
+Warwick Avenue,Bakerloo Line,2.0
+Waterloo,Northern Line,1.0
+Waterloo,Bakerloo Line,1.0
+Waterloo,Jubilee Line,1.0
+Waterloo,Waterloo & City Line,1.0
+Watford,Metropolitan Line,7.0
+Watford High Street,London Overground,8.0
+Watford Junction,London Overground,
+Wembley Central,London Overground,4.0
+Wembley Central,Bakerloo Line,4.0
+Wembley Park,Jubilee Line,4.0
+Wembley Park,Metropolitan Line,4.0
+West Acton,Central Line,3.0
+West Brompton,London Overground,2.0
+West Brompton,District Line,2.0
+West Croydon,London Overground,5.0
+West Drayton,Elizabeth Line,6.0
+West Ealing,Elizabeth Line,3.0
+West Finchley,Northern Line,4.0
+West Ham,Hammersmith & City Line,2.5
+West Ham,District Line,2.5
+West Ham,Jubilee Line,2.5
+West Hampstead,Jubilee Line,2.0
+West Hampstead,London Overground,2.0
+West Harrow,Metropolitan Line,5.0
+West India Quay,Docklands Light Railway,2.0
+West Kensington,District Line,2.0
+West Ruislip,Central Line,6.0
+West Silvertown,Docklands Light Railway,3.0
+Westbourne Park,Hammersmith & City Line,2.0
+Westferry,Docklands Light Railway,2.0
+Westminster,District Line,1.0
+Westminster,Circle Line,1.0
+Westminster,Jubilee Line,1.0
+White City,Central Line,2.0
+White Hart Lane,London Overground,3.0
+Whitechapel,East London Line,2.0
+Whitechapel,Elizabeth Line,2.0
+Whitechapel,London Overground,2.0
+Whitechapel,Hammersmith & City Line,2.0
+Whitechapel,District Line,2.0
+Willesden Green,Jubilee Line,2.5
+Willesden Junction,London Overground,3.0
+Willesden Junction,Bakerloo Line,2.5
+Wimbledon,District Line,3.0
+Wimbledon Park,District Line,3.0
+Wood Green,Piccadilly Line,3.0
+Wood Lane,Hammersmith & City Line,2.0
+Wood Lane,Circle Line,2.0
+Wood Street,London Overground,4.0
+Woodford,Central Line,4.0
+Woodgrange Park,London Overground,3.5
+Woodside Park,Northern Line,4.0
+Woolwich,Elizabeth Line,4.0
