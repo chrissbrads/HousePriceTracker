@@ -3,10 +3,11 @@ from get_houses_prov_list import get_houses_prov_list
 import requests
 from bs4 import BeautifulSoup
 import re
+from IPython.display import display
 
 def get_qualifying_houses():
     houses_prov_list = get_houses_prov_list()
-    conditions = (houses_prov_list['rent_per_pers'] <= 850) 
+    conditions = (houses_prov_list['rent_per_pers'] <= 900) 
     # & (houses_prov_list['added_status'] == 'Added today')
     return houses_prov_list.loc[conditions]
 
@@ -64,6 +65,7 @@ def get_house_details():
 
         details = {
             'house_type': house_type,
+            'bedrooms': bedrooms,
             'bathrooms': bathrooms,
             'available': let_available,
             # 'furnished': furnished,
@@ -83,9 +85,13 @@ def convert_nums(my_dict, dict_field):
 
     return val
 
-print(get_house_details())
 
 merged = pd.merge(get_qualifying_houses(), get_house_details(), how='inner', left_index=True, right_index=True)
+
+cols = ['title', 'price', 'postcode', 'rent_per_pers', 'town', 'url', 'added_status', 'house_type',
+       'bedrooms_y', 'bathrooms', 'available', 'stations', 'zone']
+
+display(merged[cols])
 
 merged.to_csv('data_files/results/results_list.csv')
 

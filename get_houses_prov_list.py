@@ -1,7 +1,5 @@
 import requests
 from bs4 import BeautifulSoup
-import html5lib
-import lxml
 import re
 import pandas as pd
 
@@ -13,7 +11,6 @@ def get_houses_prov_list():
     url = r"https://www.rightmove.co.uk/property-to-rent/find.html?searchType=RENT&locationIdentifier=REGION%5E87490&insId=1&radius=0.0&minPrice=&maxPrice=2000&minBedrooms=2&maxBedrooms=&displayPropertyType=&maxDaysSinceAdded=1&sortByPriceDescending=&_includeLetAgreed=on&primaryDisplayPropertyType=&secondaryDisplayPropertyType=&oldDisplayPropertyType=&oldPrimaryDisplayPropertyType=&letType=&letFurnishType=&houseFlatShare=#prop131430050"
 
     res = requests.get(url)
-    print(res.status_code)
     soup = BeautifulSoup(res.content, 'lxml')
 
     postcode_df = pd.read_csv('data_files/cleaned/postcodes_ldn.csv')
