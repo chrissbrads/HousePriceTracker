@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import re
 from IPython.display import display
 
+
 def get_qualifying_houses():
     houses_prov_list = get_houses_prov_list()
     conditions = (houses_prov_list['rent_per_pers'] <= 900) 
@@ -55,8 +56,9 @@ def get_house_details():
         key_info = [item.text for item in info_reel.find_all('dd', {'class': '_1hV1kqpVceE9m-QrX_hWDN'})]
         info_name = [item.text.lower() for item in info_reel.find_all('dt', {'class':'ZBWaPR-rIda6ikyKpB_E2'})]
         info_dict = dict(zip(info_name, key_info))
-        # print(info_dict)
-        house_type = info_dict['property type']
+        print(info_dict)
+        
+        house_type = info_dict.get('property type')
         
         bathrooms = convert_nums(info_dict, 'bathrooms')
         bedrooms = convert_nums(info_dict, 'bedrooms')
@@ -88,10 +90,10 @@ def convert_nums(my_dict, dict_field):
 
 merged = pd.merge(get_qualifying_houses(), get_house_details(), how='inner', left_index=True, right_index=True)
 
-cols = ['title', 'price', 'postcode', 'rent_per_pers', 'town', 'url', 'added_status', 'house_type',
-       'bedrooms_y', 'bathrooms', 'available', 'stations', 'zone']
+cols = ['title', 'price', 'postcode', 'rent_per_pers', 'town', 'zone', 'url', 'added_status', 'house_type',
+       'bedrooms_y', 'bathrooms', 'available', 'stations', 'description']
 
 display(merged[cols])
 
-merged.to_csv('data_files/results/results_list.csv')
+merged[cols].to_csv('data_files/results/results_list.csv')
 

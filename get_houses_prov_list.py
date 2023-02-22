@@ -2,22 +2,37 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
+from get_requests import get_raw_properties_list
 
 output_csv_flag = False
 
-def get_houses_prov_list():
+def get_houses_prov_list(pages=3):
+    
+    # urls = r"https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E87490&minBedrooms=2&maxPrice=3000&propertyTypes=&includeLetAgreed=false&mustHave=&dontShow=&furnishTypes=&keywords="
+    # res = requests.get(url)
+    # soup = BeautifulSoup(res.content, 'lxml')
+    # properties_raw = soup.find_all('div', {'class': 'l-searchResult is-list'})
 
     base_url = r'https://www.rightmove.co.uk'
-    url = r"https://www.rightmove.co.uk/property-to-rent/find.html?searchType=RENT&locationIdentifier=REGION%5E87490&insId=1&radius=0.0&minPrice=&maxPrice=2000&minBedrooms=2&maxBedrooms=&displayPropertyType=&maxDaysSinceAdded=1&sortByPriceDescending=&_includeLetAgreed=on&primaryDisplayPropertyType=&secondaryDisplayPropertyType=&oldDisplayPropertyType=&oldPrimaryDisplayPropertyType=&letType=&letFurnishType=&houseFlatShare=#prop131430050"
+    url = r'https://www.rightmove.co.uk/property-to-rent/find.html'
 
-    res = requests.get(url)
-    soup = BeautifulSoup(res.content, 'lxml')
+    payload = {
+        'locationIdentifier': 'REGION^87490', # decoded url for 'REGION%5E87490' (Greater London)
+        'minBedrooms': 2,
+        'maxPrice': 3000,
+        'index': None,
+        'propertyTypes':'',
+        'includeLetAgreed': 'false',
+        'mustHave': '',
+        'dontShow': '',
+        'furnishTypes':'',
+        'keywords': ''
+    }
 
-    postcode_df = pd.read_csv('data_files/cleaned/postcodes_ldn.csv')
+    properties_raw = get_raw_properties_list(url, pages, payload=payload)
+
+    postcode_df = pd.read_csv('data_files/cleaned/postcodes_ldn_with_hd.csv')
     postcode_prfx = ['N','NE','E','SE','SW','W','NW','EC','WC','BR','CR','DA','EN','HA','IG','KT','RM','SM','TW','UB']
-
-    properties_raw = soup.find_all('div', {'class': 'l-searchResult is-list'})
-    # print(properties_raw[0])
 
     detail_list = []
     for room in properties_raw:
