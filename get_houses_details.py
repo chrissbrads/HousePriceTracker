@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 from IPython.display import display
+from statistics import mean
 
 
 def get_qualifying_houses():
@@ -33,7 +34,7 @@ def get_house_details():
         stn_line = stn_inf['line'].tolist()
         
         if stn_line:
-            stn_zone = max(stn_inf['zone'].tolist())
+            stn_zone = mean(stn_inf['zone'].tolist())
         else:
             stn_line = None
             stn_zone = None
