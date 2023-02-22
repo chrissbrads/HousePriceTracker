@@ -1,277 +1,278 @@
-,postcode,town,eastings,northings,latitude,longitude,region
-0,BR1,Bromley,540600.0,170000.0,51.41107,0.02192,Greater London
-1,BR2,Bromley,540700.0,167500.0,51.38858,0.02237,Greater London
-2,BR3,Bromley,537000.0,169000.0,51.40297,-0.0302,Greater London
-3,BR4,Bromley,538700.0,166000.0,51.37559,-0.00695,Greater London
-4,BR5,Bromley,546400.0,167800.0,51.38983,0.10436,Greater London
-5,BR6,Bromley,545700.0,165100.0,51.36575,0.0932,Greater London
-6,BR7,Bromley,544100.0,170000.0,51.41019,0.07222,Greater London
-7,CR0,Croydon,534000.0,165500.0,51.37223,-0.07463,Greater London
-8,CR2,Croydon,533700.0,163000.0,51.34983,-0.07988,Greater London
-9,CR4,Merton,528100.0,168900.0,51.40415,-0.15813,Greater London
-10,CR5,Croydon,529700.0,158700.0,51.31211,-0.13886,Greater London
-11,CR7,Croydon,532000.0,168000.0,51.39517,-0.10242,Greater London
-12,CR8,Croydon,531600.0,161400.0,51.33594,-0.11061,Greater London
-13,CR9,Croydon,534000.0,165500.0,51.37223,-0.07463,Greater London
-14,DA14,Bexley,546900.0,171700.0,51.42475,0.11316,Greater London
-15,DA15,Bexley,545900.0,173400.0,51.44029,0.09948,Greater London
-16,DA16,Bexley,546500.0,176100.0,51.4644,0.10923,Greater London
-17,DA17,Crayford,549200.0,178700.0,51.48706,0.14917,Greater London
-18,DA18,Crayford,548800.0,179200.0,51.49165,0.14363,Greater London
-19,DA5,Bexley,549200.0,173500.0,51.44033,0.14698,Greater London
-20,DA6,Bexley,548700.0,175100.0,51.45484,0.14046,Greater London
-21,DA7,Crayford,549100.0,176300.0,51.46552,0.14672,Greater London
-22,DA8,Crayford,551200.0,177500.0,51.47574,0.17745,Greater London
-23,E1,Poplar,534700.0,181700.0,51.51766,-0.05841,Greater London
-24,E10,Walthamstow,537800.0,187400.0,51.56814,-0.01153,Greater London
-25,E11,Walthamstow,539600.0,187400.0,51.56769,0.01443,Greater London
-26,E12,Stratford,542400.0,185500.0,51.54992,0.05404,Greater London
-27,E13,East Ham,540600.0,182900.0,51.527,0.02705,Greater London
-28,E14,Poplar,537500.0,180500.0,51.5062,-0.01855,Greater London
-29,E15,Stratford,538900.0,184200.0,51.53911,0.00307,Greater London
-30,E16,East Ham,540600.0,181100.0,51.51083,0.02633,Greater London
-31,E17,Walthamstow,537300.0,189400.0,51.58623,-0.01796,Greater London
-32,E18,Ilford,540400.0,190100.0,51.59176,0.02705,Greater London
-33,E1W,Poplar,534800.0,180600.0,51.50775,-0.05739,Greater London
-34,E2,Poplar,534500.0,183000.0,51.52939,-0.0608,Greater London
-35,E3,Poplar,537000.0,182900.0,51.52789,-0.02482,Greater London
-36,E4,Walthamstow,538200.0,193400.0,51.62196,-0.00339,Greater London
-37,E5,Hackney,535000.0,186300.0,51.55893,-0.05233,Greater London
-38,E6,East Ham,542600.0,182800.0,51.5256,0.05583,Greater London
-39,E7,Stratford,540600.0,185100.0,51.54678,0.02793,Greater London
-40,E8,Hackney,534300.0,184400.0,51.54202,-0.06315,Greater London
-41,E9,Hackney,535700.0,184500.0,51.54258,-0.04293,Greater London
-42,EC1,Islington,531700.0,182200.0,51.52286,-0.10144,Greater London
-43,EC1A,Islington,531600.0,181900.0,51.52019,-0.103,Greater London
-44,EC1M,Islington,531700.0,182000.0,51.52106,-0.10152,Greater London
-45,EC1N,Camden Town,531300.0,181900.0,51.52026,-0.10732,Greater London
-46,EC1P,non-geographic,,,,,Greater London
-47,EC1R,Islington,531300.0,182400.0,51.52475,-0.10713,Greater London
-48,EC1V,Islington,532000.0,182500.0,51.52549,-0.09701,Greater London
-49,EC1Y,Islington,532300.0,182200.0,51.52272,-0.0928,Greater London
-50,EC2,Islington,532600.0,181900.0,51.51995,-0.08859,Greater London
-51,EC2A,Islington,532800.0,182200.0,51.5226,-0.0856,Greater London
-52,EC2M,Broadgate,,,,,Greater London
-53,EC2N,Old Broad Street,,,,,Greater London
-54,EC2P,non-geographic,,,,,Greater London
-55,EC2R,Bank of England,,,,,Greater London
-56,EC2V,Guildhall,,,,,Greater London
-57,EC2Y,Barbican,,,,,Greater London
-58,EC3A,St Mary Axe,,,,,Greater London
-59,EC3M,Lloyd's of London,,,,,Greater London
-60,EC3N,Tower Hill,,,,,Greater London
-61,EC3P,Islington,531700.0,181900.0,51.52016,-0.10156,Greater London
-62,EC3R,Monument,,,,,Greater London
-63,EC3V,Cornhill,,,,,Greater London
-64,EC4A,Fetter Lane,,,,,Greater London
-65,EC4M,St Paul's,,,,,Greater London
-66,EC4N,Mansion House,,,,,Greater London
-67,EC4P,non-geographic,,,,,Greater London
-68,EC4R,Cannon Street,,,,,Greater London
-69,EC4V,Blackfriars,,,,,Greater London
-70,EC4Y,Temple,,,,,Greater London
-71,EC50,non-geographic,,,,,Greater London
-72,EN1,Enfield,533700.0,196800.0,51.6536,-0.06707,Greater London
-73,EN2,Enfield,532000.0,197300.0,51.6585,-0.09144,Greater London
-74,EN3,Enfield,535700.0,197400.0,51.65852,-0.03794,Greater London
-75,EN4,Barnet,527300.0,196000.0,51.6479,-0.15983,Greater London
-76,EN5,Barnet,524900.0,196100.0,51.64934,-0.19447,Greater London
-77,HA0,Brent,517600.0,184900.0,51.55024,-0.3037,Greater London
-78,HA1,Harrow,515300.0,188100.0,51.57948,-0.33581,Greater London
-79,HA2,Harrow,513800.0,187400.0,51.57349,-0.35768,Greater London
-80,HA3,Harrow,516400.0,189600.0,51.59274,-0.31945,Greater London
-81,HA4,Hillingdon,510200.0,186900.0,51.56971,-0.40977,Greater London
-82,HA5,Harrow,511900.0,189700.0,51.59455,-0.38436,Greater London
-83,HA6,Hillingdon,509400.0,191400.0,51.61032,-0.41991,Greater London
-84,HA7,Harrow,517200.0,191500.0,51.60965,-0.30727,Greater London
-85,HA8,Barnet,519600.0,191700.0,51.61094,-0.27255,Greater London
-86,HA9,Brent,518800.0,185900.0,51.55898,-0.28606,Greater London
-87,IG1,Ilford,543800.0,186500.0,51.55855,0.07463,Greater London
-88,IG11,Barking,545200.0,184000.0,51.53573,0.09378,Greater London
-89,IG2,Ilford,544200.0,188200.0,51.57373,0.08109,Greater London
-90,IG3,Ilford,545600.0,186900.0,51.56168,0.10074,Greater London
-91,IG4,Ilford,542400.0,188500.0,51.57688,0.05525,Greater London
-92,IG5,Ilford,543100.0,189700.0,51.58749,0.06584,Greater London
-93,IG6,Ilford,544700.0,190300.0,51.59247,0.08917,Greater London
-94,IG8,Ilford,540800.0,191800.0,51.60694,0.0335,Greater London
-95,KT1,Kingston Upon Thames,518500.0,169000.0,51.40713,-0.29606,Greater London
-96,KT2,Kingston Upon Thames,519000.0,170000.0,51.41602,-0.28854,Greater London
-97,KT3,Kingston Upon Thames,521300.0,168200.0,51.39935,-0.25609,Greater London
-98,KT4,Sutton,522300.0,165800.0,51.37757,-0.24255,Greater London
-99,KT5,Kingston Upon Thames,519200.0,167300.0,51.39171,-0.28657,Greater London
-100,KT6,Kingston Upon Thames,518300.0,167000.0,51.3892,-0.2996,Greater London
-101,KT9,Kingston Upon Thames,518200.0,164200.0,51.36405,-0.30197,Greater London
-102,N1,Islington,532000.0,183800.0,51.53717,-0.09652,Greater London
-103,N10,Tottenham,528600.0,190000.0,51.59368,-0.14325,Greater London
-104,N11,Enfield,528900.0,192200.0,51.61338,-0.13812,Greater London
-105,N12,Barnet,526300.0,192300.0,51.61487,-0.17561,Greater London
-106,N13,Enfield,531400.0,192900.0,51.6191,-0.10176,Greater London
-107,N14,Enfield,529500.0,194500.0,51.63392,-0.1286,Greater London
-108,N15,Tottenham,532900.0,188800.0,51.5819,-0.08166,Greater London
-109,N16,Hackney,533400.0,186700.0,51.5629,-0.07525,Greater London
-110,N17,Tottenham,533600.0,190600.0,51.59791,-0.07088,Greater London
-111,N18,Enfield,534000.0,192300.0,51.61309,-0.06446,Greater London
-112,N19,Islington,529800.0,186800.0,51.56464,-0.12712,Greater London
-113,N2,Barnet,526900.0,189500.0,51.58957,-0.16797,Greater London
-114,N20,Barnet,526400.0,193900.0,51.62923,-0.17359,Greater London
-115,N21,Enfield,531600.0,194800.0,51.63612,-0.09816,Greater London
-116,N22,Tottenham,530900.0,190700.0,51.59944,-0.1098,Greater London
-117,N3,Barnet,525200.0,190600.0,51.59984,-0.1921,Greater London
-118,N4,Hackney,531600.0,187500.0,51.57052,-0.1009,Greater London
-119,N5,Islington,531900.0,185600.0,51.55337,-0.09729,Greater London
-120,N6,Tottenham,528800.0,187500.0,51.57116,-0.14129,Greater London
-121,N7,Islington,530600.0,185500.0,51.55277,-0.11607,Greater London
-122,N8,Tottenham,530500.0,188900.0,51.58335,-0.11625,Greater London
-123,N9,Enfield,534500.0,194000.0,51.62825,-0.05659,Greater London
-124,NW1,Camden Town,528800.0,183200.0,51.53252,-0.14286,Greater London
-125,NW10,Brent,521600.0,183800.0,51.53951,-0.24641,Greater London
-126,NW11,Barnet,525000.0,188200.0,51.57831,-0.19584,Greater London
-127,NW2,Brent,523500.0,185900.0,51.55797,-0.21829,Greater London
-128,NW3,Camden Town,526800.0,185300.0,51.55184,-0.17093,Greater London
-129,NW4,Barnet,523100.0,189100.0,51.58682,-0.22294,Greater London
-130,NW5,Camden Town,528800.0,185300.0,51.55139,-0.14209,Greater London
-131,NW6,Camden Town,525200.0,184100.0,51.54142,-0.19442,Greater London
-132,NW7,Barnet,522200.0,192200.0,51.61488,-0.23484,Greater London
-133,NW8,Paddington,526800.0,183000.0,51.53117,-0.17175,Greater London
-134,NW9,Brent,520900.0,189000.0,51.5864,-0.25472,Greater London
-135,RM1,Romford,551300.0,189300.0,51.58175,0.18395,Greater London
-136,RM10,Barking,549700.0,185100.0,51.54443,0.15909,Greater London
-137,RM11,Romford,553800.0,188000.0,51.56939,0.21944,Greater London
-138,RM12,Romford,553100.0,186100.0,51.55251,0.20852,Greater London
-139,RM13,Romford,552300.0,182900.0,51.52397,0.19561,Greater London
-140,RM14,Romford,557000.0,186600.0,51.55593,0.26496,Greater London
-141,RM2,Romford,552600.0,189500.0,51.5832,0.20279,Greater London
-142,RM3,Romford,554200.0,191600.0,51.60163,0.22679,Greater London
-143,RM5,Romford,550000.0,191200.0,51.59917,0.16602,Greater London
-144,RM6,Barking,547800.0,188500.0,51.57549,0.13313,Greater London
-145,RM7,Romford,550400.0,188500.0,51.5748,0.17063,Greater London
-146,RM8,Barking,547800.0,186400.0,51.55662,0.13225,Greater London
-147,RM9,Barking,548100.0,184600.0,51.54036,0.13582,Greater London
-148,SE1,Camberwell,532600.0,179500.0,51.49838,-0.08949,Greater London
-149,SE10,Greenwich,538800.0,177800.0,51.48162,-0.00089,Greater London
-150,SE11,Lambeth,531300.0,178400.0,51.4888,-0.10862,Greater London
-151,SE12,Greenwich,540700.0,173700.0,51.4443,0.02483,Greater London
-152,SE13,Lewisham,538300.0,175200.0,51.45837,-0.0091,Greater London
-153,SE14,Lewisham,536000.0,177000.0,51.47511,-0.0415,Greater London
-154,SE15,Camberwell,534400.0,176600.0,51.47189,-0.06468,Greater London
-155,SE16,Camberwell,535200.0,179300.0,51.49597,-0.05213,Greater London
-156,SE17,Camberwell,532400.0,178300.0,51.48764,-0.09282,Greater London
-157,SE18,Eltham,544000.0,178200.0,51.48391,0.07412,Greater London
-158,SE19,Croydon,533200.0,170500.0,51.41735,-0.08424,Greater London
-159,SE2,Eltham,547000.0,178900.0,51.48943,0.11759,Greater London
-160,SE20,Bromley,535100.0,169900.0,51.41151,-0.05716,Greater London
-161,SE21,Camberwell,533000.0,172800.0,51.43807,-0.08626,Greater London
-162,SE22,Camberwell,534000.0,174600.0,51.45401,-0.07119,Greater London
-163,SE23,Lewisham,535600.0,173100.0,51.44015,-0.04875,Greater London
-164,SE24,Camberwell,532100.0,174600.0,51.45446,-0.09853,Greater London
-165,SE25,Croydon,533900.0,168300.0,51.39742,-0.07501,Greater London
-166,SE26,Lewisham,535300.0,171600.0,51.42674,-0.05364,Greater London
-167,SE27,Lambeth,532000.0,171900.0,51.43022,-0.10097,Greater London
-168,SE28,Eltham,546300.0,180300.0,51.50219,0.10809,Greater London
-169,SE3,Greenwich,540300.0,176400.0,51.46866,0.02015,Greater London
-170,SE4,Lewisham,536600.0,175400.0,51.46058,-0.03348,Greater London
-171,SE5,Camberwell,532600.0,176700.0,51.47322,-0.09055,Greater London
-172,SE6,Lewisham,538000.0,172900.0,51.43777,-0.01432,Greater London
-173,SE7,Greenwich,541300.0,178100.0,51.48369,0.03521,Greater London
-174,SE8,Lewisham,536900.0,177700.0,51.48118,-0.02828,Greater London
-175,SE9,Eltham,542900.0,173800.0,51.44465,0.05651,Greater London
-176,SM1,Sutton,525900.0,164600.0,51.36599,-0.19127,Greater London
-177,SM2,Sutton,525600.0,163100.0,51.35258,-0.19611,Greater London
-178,SM3,Sutton,524400.0,165000.0,51.36992,-0.21267,Greater London
-179,SM4,Merton,525300.0,167500.0,51.39219,-0.19886,Greater London
-180,SM5,Sutton,527600.0,164800.0,51.36741,-0.16679,Greater London
-181,SM6,Sutton,529300.0,164000.0,51.35984,-0.14267,Greater London
-182,SW10,Kensington,526300.0,177700.0,51.48365,-0.18086,Greater London
-183,SW11,Wandsworth,527500.0,175800.0,51.4663,-0.16427,Greater London
-184,SW12,Wandsworth,528700.0,173500.0,51.44536,-0.14784,Greater London
-185,SW13,Richmond,521900.0,176600.0,51.47473,-0.24458,Greater London
-186,SW14,Richmond,520500.0,175500.0,51.46514,-0.26511,Greater London
-187,SW15,Wandsworth,523300.0,174700.0,51.45734,-0.22509,Greater London
-188,SW16,Lambeth,530200.0,170900.0,51.42165,-0.12722,Greater London
-189,SW17,Wandsworth,527700.0,171800.0,51.4303,-0.16283,Greater London
-190,SW18,Wandsworth,525800.0,173900.0,51.4496,-0.18941,Greater London
-191,SW19,Merton,524900.0,170900.0,51.42284,-0.20341,Greater London
-192,SW1A,Whitehall,,,,,Greater London
-193,SW1E,Northern Victoria,,,,,Greater London
-194,SW1H,St James's Park tube station,,,,,Greater London
-195,SW1P,Parliament Square,,,,,Greater London
-196,SW1V,between Vauxhall Bridge and Victoria Station,,,,,Greater London
-197,SW1W,South or lower Belgravia and Chelsea,,,,,Greater London
-198,SW1X,Belgravia,,,,,Greater London
-199,SW1Y,St James's,,,,,Greater London
-200,SW2,Lambeth,530700.0,174000.0,51.44939,-0.11889,Greater London
-201,SW20,Merton,523400.0,169500.0,51.41058,-0.22547,Greater London
-202,SW3,Kensington,527400.0,178400.0,51.48969,-0.16477,Greater London
-203,SW4,Lambeth,529500.0,175200.0,51.46045,-0.13571,Greater London
-204,SW5,Kensington,525800.0,178400.0,51.49005,-0.18781,Greater London
-205,SW6,Hammersmith,525000.0,176900.0,51.47675,-0.19986,Greater London
-206,SW7,Kensington,526700.0,179100.0,51.49614,-0.1746,Greater London
-207,SW8,Lambeth,529800.0,176900.0,51.47566,-0.13077,Greater London
-208,SW9,Lambeth,531100.0,176200.0,51.46907,-0.11232,Greater London
-209,TN16,,543100.0,157000.0,51.29362,0.05262,Greater London
-210,TW1,Richmond,516400.0,173700.0,51.44982,-0.3247,Greater London
-211,TW10,Richmond,518000.0,173700.0,51.44949,-0.30168,Greater London
-212,TW11,Richmond,516000.0,171100.0,51.42653,-0.33131,Greater London
-213,TW12,Richmond,513400.0,170500.0,51.42166,-0.36888,Greater London
-214,TW13,Hounslow,511200.0,172300.0,51.43828,-0.39995,Greater London
-215,TW14,Hounslow,509900.0,173800.0,51.45202,-0.41818,Greater London
-216,TW2,Richmond,514700.0,173300.0,51.44657,-0.34929,Greater London
-217,TW3,Hounslow,513800.0,175600.0,51.46742,-0.36149,Greater London
-218,TW4,Hounslow,512300.0,175400.0,51.46593,-0.38314,Greater London
-219,TW5,Hounslow,512400.0,177000.0,51.48029,-0.3812,Greater London
-220,TW6,Hillingdon,507900.0,175700.0,51.46948,-0.44638,Greater London
-221,TW7,Hounslow,515800.0,176300.0,51.47331,-0.33248,Greater London
-222,TW8,Hounslow,517600.0,177700.0,51.48552,-0.30611,Greater London
-223,TW9,Richmond,518500.0,175700.0,51.46736,-0.29382,Greater London
-224,UB1,Southall,512900.0,180800.0,51.51435,-0.37278,Greater London
-225,UB10,Hillingdon,507300.0,184400.0,51.5478,-0.45236,Greater London
-226,UB11,Hillingdon,507000.0,181200.0,51.51909,-0.45766,Greater London
-227,UB2,Southall,512500.0,179100.0,51.49915,-0.37909,Greater London
-228,UB3,Hillingdon,509500.0,179700.0,51.50513,-0.42211,Greater London
-229,UB4,Hillingdon,510500.0,181800.0,51.52381,-0.40704,Greater London
-230,UB5,Southall,512700.0,184000.0,51.54315,-0.37464,Greater London
-231,UB6,Southall,514900.0,183600.0,51.53911,-0.34306,Greater London
-232,UB7,Hillingdon,506200.0,179700.0,51.50576,-0.46964,Greater London
-233,UB8,Hillingdon,505900.0,182900.0,51.53458,-0.473,Greater London
-234,W10,Kensington,523900.0,181800.0,51.52103,-0.21397,Greater London
-235,W11,Kensington,524600.0,180800.0,51.51189,-0.20424,Greater London
-236,W12,Hammersmith,522900.0,180300.0,51.50777,-0.2289,Greater London
-237,W13,Ealing,516600.0,180700.0,51.5127,-0.31951,Greater London
-238,W14,Hammersmith,524300.0,178900.0,51.49488,-0.20923,Greater London
-239,W1A,non-geographic,,,,,Greater London
-240,W1B,Portland Place,,,,,Greater London
-241,W1C,Oxford Street,,,,,Greater London
-242,W1D,Soho (south east),,,,,Greater London
-243,W1F,Soho (north west),,,,,Greater London
-244,W1G,Paddington,528600.0,181600.0,51.51818,-0.14633,Greater London
-245,W1H,Paddington,527700.0,181400.0,51.51659,-0.15936,Greater London
-246,W1J,Mayfair (south),,,,,Greater London
-247,W1K,Mayfair (north),,,,,Greater London
-248,W1M,Paddington,528400.0,181600.0,51.51823,-0.14921,Greater London
-249,W1S,Mayfair (east),,,,,Greater London
-250,W1T,Camden Town,529400.0,181800.0,51.5198,-0.13473,Greater London
-251,W1U,Paddington,528200.0,181600.0,51.51827,-0.15209,Greater London
-252,W1W,Paddington,529100.0,181700.0,51.51897,-0.13909,Greater London
-253,W2,Paddington,526400.0,181200.0,51.51508,-0.17816,Greater London
-254,W3,Ealing,520200.0,180400.0,51.50925,-0.26775,Greater London
-255,W4,Hounslow,520600.0,178400.0,51.49118,-0.26268,Greater London
-256,W5,Ealing,517900.0,180700.0,51.51243,-0.30078,Greater London
-257,W6,Hammersmith,523000.0,178600.0,51.49246,-0.22805,Greater London
-258,W7,Ealing,515600.0,180500.0,51.5111,-0.33398,Greater London
-259,W8,Kensington,525400.0,179500.0,51.50003,-0.19317,Greater London
-260,W9,Paddington,525500.0,182400.0,51.52607,-0.1907,Greater London
-261,WC1,Camden Town,530300.0,182000.0,51.52139,-0.12169,Greater London
-262,WC1A,Camden Town,530100.0,181500.0,51.51694,-0.12475,Greater London
-263,WC1B,Camden Town,530000.0,181700.0,51.51876,-0.12612,Greater London
-264,WC1E,Camden Town,529600.0,181900.0,51.52065,-0.13181,Greater London
-265,WC1H,Camden Town,530000.0,182300.0,51.52415,-0.1259,Greater London
-266,WC1N,Camden Town,530400.0,182000.0,51.52136,-0.12025,Greater London
-267,WC1R,Camden Town,530700.0,181700.0,51.5186,-0.11604,Greater London
-268,WC1V,Camden Town,530500.0,181500.0,51.51685,-0.11899,Greater London
-269,WC1X,Camden Town,530700.0,182400.0,51.52489,-0.11578,Greater London
-270,WC2A,Camden Town,530800.0,181400.0,51.51588,-0.11471,Greater London
-271,WC2B,Drury Lane,,,,,Greater London
-272,WC2E,Covent Garden,,,,,Greater London
-273,WC2H,Camden Town,529900.0,181100.0,51.51339,-0.12778,Greater London
-274,WC2N,Charing Cross,,,,,Greater London
-275,WC2R,Somerset House,,,,,Greater London
+postcode,town,eastings,northings,latitude,longitude,region
+BR1,Bromley,540600.0,170000.0,51.41107,0.02192,Greater London
+BR2,Bromley,540700.0,167500.0,51.38858,0.02237,Greater London
+BR3,Bromley,537000.0,169000.0,51.40297,-0.0302,Greater London
+BR4,Bromley,538700.0,166000.0,51.37559,-0.00695,Greater London
+BR5,Bromley,546400.0,167800.0,51.38983,0.10436,Greater London
+BR6,Bromley,545700.0,165100.0,51.36575,0.0932,Greater London
+BR7,Bromley,544100.0,170000.0,51.41019,0.07222,Greater London
+CR0,Croydon,534000.0,165500.0,51.37223,-0.07463,Greater London
+CR2,Croydon,533700.0,163000.0,51.34983,-0.07988,Greater London
+CR4,Merton,528100.0,168900.0,51.40415,-0.15813,Greater London
+CR5,Croydon,529700.0,158700.0,51.31211,-0.13886,Greater London
+CR7,Croydon,532000.0,168000.0,51.39517,-0.10242,Greater London
+CR8,Croydon,531600.0,161400.0,51.33594,-0.11061,Greater London
+CR9,Croydon,534000.0,165500.0,51.37223,-0.07463,Greater London
+DA14,Bexley,546900.0,171700.0,51.42475,0.11316,Greater London
+DA15,Bexley,545900.0,173400.0,51.44029,0.09948,Greater London
+DA16,Bexley,546500.0,176100.0,51.4644,0.10923,Greater London
+DA17,Crayford,549200.0,178700.0,51.48706,0.14917,Greater London
+DA18,Crayford,548800.0,179200.0,51.49165,0.14363,Greater London
+DA5,Bexley,549200.0,173500.0,51.44033,0.14698,Greater London
+DA6,Bexley,548700.0,175100.0,51.45484,0.14046,Greater London
+DA7,Crayford,549100.0,176300.0,51.46552,0.14672,Greater London
+DA8,Crayford,551200.0,177500.0,51.47574,0.17745,Greater London
+E1,Poplar,534700.0,181700.0,51.51766,-0.05841,Greater London
+E10,Walthamstow,537800.0,187400.0,51.56814,-0.01153,Greater London
+E11,Walthamstow,539600.0,187400.0,51.56769,0.01443,Greater London
+E12,Stratford,542400.0,185500.0,51.54992,0.05404,Greater London
+E13,East Ham,540600.0,182900.0,51.527,0.02705,Greater London
+E14,Poplar,537500.0,180500.0,51.5062,-0.01855,Greater London
+E15,Stratford,538900.0,184200.0,51.53911,0.00307,Greater London
+E16,East Ham,540600.0,181100.0,51.51083,0.02633,Greater London
+E17,Walthamstow,537300.0,189400.0,51.58623,-0.01796,Greater London
+E18,Ilford,540400.0,190100.0,51.59176,0.02705,Greater London
+E1W,Poplar,534800.0,180600.0,51.50775,-0.05739,Greater London
+E2,Poplar,534500.0,183000.0,51.52939,-0.0608,Greater London
+E20,Olympic Park District,538208.0,185027.0,51.54722,-0.00819,Greater London
+E3,Poplar,537000.0,182900.0,51.52789,-0.02482,Greater London
+E4,Walthamstow,538200.0,193400.0,51.62196,-0.00339,Greater London
+E5,Hackney,535000.0,186300.0,51.55893,-0.05233,Greater London
+E6,East Ham,542600.0,182800.0,51.5256,0.05583,Greater London
+E7,Stratford,540600.0,185100.0,51.54678,0.02793,Greater London
+E8,Hackney,534300.0,184400.0,51.54202,-0.06315,Greater London
+E9,Hackney,535700.0,184500.0,51.54258,-0.04293,Greater London
+EC1,Islington,531700.0,182200.0,51.52286,-0.10144,Greater London
+EC1A,Islington,531600.0,181900.0,51.52019,-0.103,Greater London
+EC1M,Islington,531700.0,182000.0,51.52106,-0.10152,Greater London
+EC1N,Camden Town,531300.0,181900.0,51.52026,-0.10732,Greater London
+EC1P,non-geographic,,,,,Greater London
+EC1R,Islington,531300.0,182400.0,51.52475,-0.10713,Greater London
+EC1V,Islington,532000.0,182500.0,51.52549,-0.09701,Greater London
+EC1Y,Islington,532300.0,182200.0,51.52272,-0.0928,Greater London
+EC2,Islington,532600.0,181900.0,51.51995,-0.08859,Greater London
+EC2A,Islington,532800.0,182200.0,51.5226,-0.0856,Greater London
+EC2M,Broadgate,,,,,Greater London
+EC2N,Old Broad Street,,,,,Greater London
+EC2P,non-geographic,,,,,Greater London
+EC2R,Bank of England,,,,,Greater London
+EC2V,Guildhall,,,,,Greater London
+EC2Y,Barbican,,,,,Greater London
+EC3A,St Mary Axe,,,,,Greater London
+EC3M,Lloyd's of London,,,,,Greater London
+EC3N,Tower Hill,,,,,Greater London
+EC3P,Islington,531700.0,181900.0,51.52016,-0.10156,Greater London
+EC3R,Monument,,,,,Greater London
+EC3V,Cornhill,,,,,Greater London
+EC4A,Fetter Lane,,,,,Greater London
+EC4M,St Paul's,,,,,Greater London
+EC4N,Mansion House,,,,,Greater London
+EC4P,non-geographic,,,,,Greater London
+EC4R,Cannon Street,,,,,Greater London
+EC4V,Blackfriars,,,,,Greater London
+EC4Y,Temple,,,,,Greater London
+EC50,non-geographic,,,,,Greater London
+EN1,Enfield,533700.0,196800.0,51.6536,-0.06707,Greater London
+EN2,Enfield,532000.0,197300.0,51.6585,-0.09144,Greater London
+EN3,Enfield,535700.0,197400.0,51.65852,-0.03794,Greater London
+EN4,Barnet,527300.0,196000.0,51.6479,-0.15983,Greater London
+EN5,Barnet,524900.0,196100.0,51.64934,-0.19447,Greater London
+HA0,Brent,517600.0,184900.0,51.55024,-0.3037,Greater London
+HA1,Harrow,515300.0,188100.0,51.57948,-0.33581,Greater London
+HA2,Harrow,513800.0,187400.0,51.57349,-0.35768,Greater London
+HA3,Harrow,516400.0,189600.0,51.59274,-0.31945,Greater London
+HA4,Hillingdon,510200.0,186900.0,51.56971,-0.40977,Greater London
+HA5,Harrow,511900.0,189700.0,51.59455,-0.38436,Greater London
+HA6,Hillingdon,509400.0,191400.0,51.61032,-0.41991,Greater London
+HA7,Harrow,517200.0,191500.0,51.60965,-0.30727,Greater London
+HA8,Barnet,519600.0,191700.0,51.61094,-0.27255,Greater London
+HA9,Brent,518800.0,185900.0,51.55898,-0.28606,Greater London
+IG1,Ilford,543800.0,186500.0,51.55855,0.07463,Greater London
+IG11,Barking,545200.0,184000.0,51.53573,0.09378,Greater London
+IG2,Ilford,544200.0,188200.0,51.57373,0.08109,Greater London
+IG3,Ilford,545600.0,186900.0,51.56168,0.10074,Greater London
+IG4,Ilford,542400.0,188500.0,51.57688,0.05525,Greater London
+IG5,Ilford,543100.0,189700.0,51.58749,0.06584,Greater London
+IG6,Ilford,544700.0,190300.0,51.59247,0.08917,Greater London
+IG8,Ilford,540800.0,191800.0,51.60694,0.0335,Greater London
+KT1,Kingston Upon Thames,518500.0,169000.0,51.40713,-0.29606,Greater London
+KT2,Kingston Upon Thames,519000.0,170000.0,51.41602,-0.28854,Greater London
+KT3,Kingston Upon Thames,521300.0,168200.0,51.39935,-0.25609,Greater London
+KT4,Sutton,522300.0,165800.0,51.37757,-0.24255,Greater London
+KT5,Kingston Upon Thames,519200.0,167300.0,51.39171,-0.28657,Greater London
+KT6,Kingston Upon Thames,518300.0,167000.0,51.3892,-0.2996,Greater London
+KT9,Kingston Upon Thames,518200.0,164200.0,51.36405,-0.30197,Greater London
+N1,Islington,532000.0,183800.0,51.53717,-0.09652,Greater London
+N10,Tottenham,528600.0,190000.0,51.59368,-0.14325,Greater London
+N11,Enfield,528900.0,192200.0,51.61338,-0.13812,Greater London
+N12,Barnet,526300.0,192300.0,51.61487,-0.17561,Greater London
+N13,Enfield,531400.0,192900.0,51.6191,-0.10176,Greater London
+N14,Enfield,529500.0,194500.0,51.63392,-0.1286,Greater London
+N15,Tottenham,532900.0,188800.0,51.5819,-0.08166,Greater London
+N16,Hackney,533400.0,186700.0,51.5629,-0.07525,Greater London
+N17,Tottenham,533600.0,190600.0,51.59791,-0.07088,Greater London
+N18,Enfield,534000.0,192300.0,51.61309,-0.06446,Greater London
+N19,Islington,529800.0,186800.0,51.56464,-0.12712,Greater London
+N2,Barnet,526900.0,189500.0,51.58957,-0.16797,Greater London
+N20,Barnet,526400.0,193900.0,51.62923,-0.17359,Greater London
+N21,Enfield,531600.0,194800.0,51.63612,-0.09816,Greater London
+N22,Tottenham,530900.0,190700.0,51.59944,-0.1098,Greater London
+N3,Barnet,525200.0,190600.0,51.59984,-0.1921,Greater London
+N4,Hackney,531600.0,187500.0,51.57052,-0.1009,Greater London
+N5,Islington,531900.0,185600.0,51.55337,-0.09729,Greater London
+N6,Tottenham,528800.0,187500.0,51.57116,-0.14129,Greater London
+N7,Islington,530600.0,185500.0,51.55277,-0.11607,Greater London
+N8,Tottenham,530500.0,188900.0,51.58335,-0.11625,Greater London
+N9,Enfield,534500.0,194000.0,51.62825,-0.05659,Greater London
+NW1,Camden Town,528800.0,183200.0,51.53252,-0.14286,Greater London
+NW10,Brent,521600.0,183800.0,51.53951,-0.24641,Greater London
+NW11,Barnet,525000.0,188200.0,51.57831,-0.19584,Greater London
+NW2,Brent,523500.0,185900.0,51.55797,-0.21829,Greater London
+NW3,Camden Town,526800.0,185300.0,51.55184,-0.17093,Greater London
+NW4,Barnet,523100.0,189100.0,51.58682,-0.22294,Greater London
+NW5,Camden Town,528800.0,185300.0,51.55139,-0.14209,Greater London
+NW6,Camden Town,525200.0,184100.0,51.54142,-0.19442,Greater London
+NW7,Barnet,522200.0,192200.0,51.61488,-0.23484,Greater London
+NW8,Paddington,526800.0,183000.0,51.53117,-0.17175,Greater London
+NW9,Brent,520900.0,189000.0,51.5864,-0.25472,Greater London
+RM1,Romford,551300.0,189300.0,51.58175,0.18395,Greater London
+RM10,Barking,549700.0,185100.0,51.54443,0.15909,Greater London
+RM11,Romford,553800.0,188000.0,51.56939,0.21944,Greater London
+RM12,Romford,553100.0,186100.0,51.55251,0.20852,Greater London
+RM13,Romford,552300.0,182900.0,51.52397,0.19561,Greater London
+RM14,Romford,557000.0,186600.0,51.55593,0.26496,Greater London
+RM2,Romford,552600.0,189500.0,51.5832,0.20279,Greater London
+RM3,Romford,554200.0,191600.0,51.60163,0.22679,Greater London
+RM5,Romford,550000.0,191200.0,51.59917,0.16602,Greater London
+RM6,Barking,547800.0,188500.0,51.57549,0.13313,Greater London
+RM7,Romford,550400.0,188500.0,51.5748,0.17063,Greater London
+RM8,Barking,547800.0,186400.0,51.55662,0.13225,Greater London
+RM9,Barking,548100.0,184600.0,51.54036,0.13582,Greater London
+SE1,Camberwell,532600.0,179500.0,51.49838,-0.08949,Greater London
+SE10,Greenwich,538800.0,177800.0,51.48162,-0.00089,Greater London
+SE11,Lambeth,531300.0,178400.0,51.4888,-0.10862,Greater London
+SE12,Greenwich,540700.0,173700.0,51.4443,0.02483,Greater London
+SE13,Lewisham,538300.0,175200.0,51.45837,-0.0091,Greater London
+SE14,Lewisham,536000.0,177000.0,51.47511,-0.0415,Greater London
+SE15,Camberwell,534400.0,176600.0,51.47189,-0.06468,Greater London
+SE16,Camberwell,535200.0,179300.0,51.49597,-0.05213,Greater London
+SE17,Camberwell,532400.0,178300.0,51.48764,-0.09282,Greater London
+SE18,Eltham,544000.0,178200.0,51.48391,0.07412,Greater London
+SE19,Croydon,533200.0,170500.0,51.41735,-0.08424,Greater London
+SE2,Eltham,547000.0,178900.0,51.48943,0.11759,Greater London
+SE20,Bromley,535100.0,169900.0,51.41151,-0.05716,Greater London
+SE21,Camberwell,533000.0,172800.0,51.43807,-0.08626,Greater London
+SE22,Camberwell,534000.0,174600.0,51.45401,-0.07119,Greater London
+SE23,Lewisham,535600.0,173100.0,51.44015,-0.04875,Greater London
+SE24,Camberwell,532100.0,174600.0,51.45446,-0.09853,Greater London
+SE25,Croydon,533900.0,168300.0,51.39742,-0.07501,Greater London
+SE26,Lewisham,535300.0,171600.0,51.42674,-0.05364,Greater London
+SE27,Lambeth,532000.0,171900.0,51.43022,-0.10097,Greater London
+SE28,Eltham,546300.0,180300.0,51.50219,0.10809,Greater London
+SE3,Greenwich,540300.0,176400.0,51.46866,0.02015,Greater London
+SE4,Lewisham,536600.0,175400.0,51.46058,-0.03348,Greater London
+SE5,Camberwell,532600.0,176700.0,51.47322,-0.09055,Greater London
+SE6,Lewisham,538000.0,172900.0,51.43777,-0.01432,Greater London
+SE7,Greenwich,541300.0,178100.0,51.48369,0.03521,Greater London
+SE8,Lewisham,536900.0,177700.0,51.48118,-0.02828,Greater London
+SE9,Eltham,542900.0,173800.0,51.44465,0.05651,Greater London
+SM1,Sutton,525900.0,164600.0,51.36599,-0.19127,Greater London
+SM2,Sutton,525600.0,163100.0,51.35258,-0.19611,Greater London
+SM3,Sutton,524400.0,165000.0,51.36992,-0.21267,Greater London
+SM4,Merton,525300.0,167500.0,51.39219,-0.19886,Greater London
+SM5,Sutton,527600.0,164800.0,51.36741,-0.16679,Greater London
+SM6,Sutton,529300.0,164000.0,51.35984,-0.14267,Greater London
+SW10,Kensington,526300.0,177700.0,51.48365,-0.18086,Greater London
+SW11,Wandsworth,527500.0,175800.0,51.4663,-0.16427,Greater London
+SW12,Wandsworth,528700.0,173500.0,51.44536,-0.14784,Greater London
+SW13,Richmond,521900.0,176600.0,51.47473,-0.24458,Greater London
+SW14,Richmond,520500.0,175500.0,51.46514,-0.26511,Greater London
+SW15,Wandsworth,523300.0,174700.0,51.45734,-0.22509,Greater London
+SW16,Lambeth,530200.0,170900.0,51.42165,-0.12722,Greater London
+SW17,Wandsworth,527700.0,171800.0,51.4303,-0.16283,Greater London
+SW18,Wandsworth,525800.0,173900.0,51.4496,-0.18941,Greater London
+SW19,Merton,524900.0,170900.0,51.42284,-0.20341,Greater London
+SW1A,Whitehall,,,,,Greater London
+SW1E,Northern Victoria,,,,,Greater London
+SW1H,St James's Park tube station,,,,,Greater London
+SW1P,Parliament Square,,,,,Greater London
+SW1V,between Vauxhall Bridge and Victoria Station,,,,,Greater London
+SW1W,South or lower Belgravia and Chelsea,,,,,Greater London
+SW1X,Belgravia,,,,,Greater London
+SW1Y,St James's,,,,,Greater London
+SW2,Lambeth,530700.0,174000.0,51.44939,-0.11889,Greater London
+SW20,Merton,523400.0,169500.0,51.41058,-0.22547,Greater London
+SW3,Kensington,527400.0,178400.0,51.48969,-0.16477,Greater London
+SW4,Lambeth,529500.0,175200.0,51.46045,-0.13571,Greater London
+SW5,Kensington,525800.0,178400.0,51.49005,-0.18781,Greater London
+SW6,Hammersmith,525000.0,176900.0,51.47675,-0.19986,Greater London
+SW7,Kensington,526700.0,179100.0,51.49614,-0.1746,Greater London
+SW8,Lambeth,529800.0,176900.0,51.47566,-0.13077,Greater London
+SW9,Lambeth,531100.0,176200.0,51.46907,-0.11232,Greater London
+TN16,,543100.0,157000.0,51.29362,0.05262,Greater London
+TW1,Richmond,516400.0,173700.0,51.44982,-0.3247,Greater London
+TW10,Richmond,518000.0,173700.0,51.44949,-0.30168,Greater London
+TW11,Richmond,516000.0,171100.0,51.42653,-0.33131,Greater London
+TW12,Richmond,513400.0,170500.0,51.42166,-0.36888,Greater London
+TW13,Hounslow,511200.0,172300.0,51.43828,-0.39995,Greater London
+TW14,Hounslow,509900.0,173800.0,51.45202,-0.41818,Greater London
+TW2,Richmond,514700.0,173300.0,51.44657,-0.34929,Greater London
+TW3,Hounslow,513800.0,175600.0,51.46742,-0.36149,Greater London
+TW4,Hounslow,512300.0,175400.0,51.46593,-0.38314,Greater London
+TW5,Hounslow,512400.0,177000.0,51.48029,-0.3812,Greater London
+TW6,Hillingdon,507900.0,175700.0,51.46948,-0.44638,Greater London
+TW7,Hounslow,515800.0,176300.0,51.47331,-0.33248,Greater London
+TW8,Hounslow,517600.0,177700.0,51.48552,-0.30611,Greater London
+TW9,Richmond,518500.0,175700.0,51.46736,-0.29382,Greater London
+UB1,Southall,512900.0,180800.0,51.51435,-0.37278,Greater London
+UB10,Hillingdon,507300.0,184400.0,51.5478,-0.45236,Greater London
+UB11,Hillingdon,507000.0,181200.0,51.51909,-0.45766,Greater London
+UB2,Southall,512500.0,179100.0,51.49915,-0.37909,Greater London
+UB3,Hillingdon,509500.0,179700.0,51.50513,-0.42211,Greater London
+UB4,Hillingdon,510500.0,181800.0,51.52381,-0.40704,Greater London
+UB5,Southall,512700.0,184000.0,51.54315,-0.37464,Greater London
+UB6,Southall,514900.0,183600.0,51.53911,-0.34306,Greater London
+UB7,Hillingdon,506200.0,179700.0,51.50576,-0.46964,Greater London
+UB8,Hillingdon,505900.0,182900.0,51.53458,-0.473,Greater London
+W10,Kensington,523900.0,181800.0,51.52103,-0.21397,Greater London
+W11,Kensington,524600.0,180800.0,51.51189,-0.20424,Greater London
+W12,Hammersmith,522900.0,180300.0,51.50777,-0.2289,Greater London
+W13,Ealing,516600.0,180700.0,51.5127,-0.31951,Greater London
+W14,Hammersmith,524300.0,178900.0,51.49488,-0.20923,Greater London
+W1A,non-geographic,,,,,Greater London
+W1B,Portland Place,,,,,Greater London
+W1C,Oxford Street,,,,,Greater London
+W1D,Soho (south east),,,,,Greater London
+W1F,Soho (north west),,,,,Greater London
+W1G,Paddington,528600.0,181600.0,51.51818,-0.14633,Greater London
+W1H,Paddington,527700.0,181400.0,51.51659,-0.15936,Greater London
+W1J,Mayfair (south),,,,,Greater London
+W1K,Mayfair (north),,,,,Greater London
+W1M,Paddington,528400.0,181600.0,51.51823,-0.14921,Greater London
+W1S,Mayfair (east),,,,,Greater London
+W1T,Camden Town,529400.0,181800.0,51.5198,-0.13473,Greater London
+W1U,Paddington,528200.0,181600.0,51.51827,-0.15209,Greater London
+W1W,Paddington,529100.0,181700.0,51.51897,-0.13909,Greater London
+W2,Paddington,526400.0,181200.0,51.51508,-0.17816,Greater London
+W3,Ealing,520200.0,180400.0,51.50925,-0.26775,Greater London
+W4,Hounslow,520600.0,178400.0,51.49118,-0.26268,Greater London
+W5,Ealing,517900.0,180700.0,51.51243,-0.30078,Greater London
+W6,Hammersmith,523000.0,178600.0,51.49246,-0.22805,Greater London
+W7,Ealing,515600.0,180500.0,51.5111,-0.33398,Greater London
+W8,Kensington,525400.0,179500.0,51.50003,-0.19317,Greater London
+W9,Paddington,525500.0,182400.0,51.52607,-0.1907,Greater London
+WC1,Camden Town,530300.0,182000.0,51.52139,-0.12169,Greater London
+WC1A,Camden Town,530100.0,181500.0,51.51694,-0.12475,Greater London
+WC1B,Camden Town,530000.0,181700.0,51.51876,-0.12612,Greater London
+WC1E,Camden Town,529600.0,181900.0,51.52065,-0.13181,Greater London
+WC1H,Camden Town,530000.0,182300.0,51.52415,-0.1259,Greater London
+WC1N,Camden Town,530400.0,182000.0,51.52136,-0.12025,Greater London
+WC1R,Camden Town,530700.0,181700.0,51.5186,-0.11604,Greater London
+WC1V,Camden Town,530500.0,181500.0,51.51685,-0.11899,Greater London
+WC1X,Camden Town,530700.0,182400.0,51.52489,-0.11578,Greater London
+WC2A,Camden Town,530800.0,181400.0,51.51588,-0.11471,Greater London
+WC2B,Drury Lane,,,,,Greater London
+WC2E,Covent Garden,,,,,Greater London
+WC2H,Camden Town,529900.0,181100.0,51.51339,-0.12778,Greater London
+WC2N,Charing Cross,,,,,Greater London
+WC2R,Somerset House,,,,,Greater London

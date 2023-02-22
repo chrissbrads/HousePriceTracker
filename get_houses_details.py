@@ -8,7 +8,7 @@ from IPython.display import display
 
 def get_qualifying_houses():
     houses_prov_list = get_houses_prov_list()
-    conditions = (houses_prov_list['rent_per_pers'] <= 900) 
+    conditions = (houses_prov_list['rent_per_pers'] <= 1000) 
     # & (houses_prov_list['added_status'] == 'Added today')
     return houses_prov_list.loc[conditions]
 

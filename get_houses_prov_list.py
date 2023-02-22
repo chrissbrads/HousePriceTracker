@@ -68,6 +68,7 @@ def get_houses_prov_list(pages=3):
         
         if postcode and postcode.split()[0].startswith(tuple(postcode_prfx)): 
             postcode_area = postcode.split()[0]
+            print(postcode)
             town = postcode_df.loc[postcode_df['postcode'] == postcode_area, 'town'].item()
         else:
             town = None
