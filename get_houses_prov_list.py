@@ -37,6 +37,7 @@ def get_houses_prov_list(pages=3):
     detail_list = []
     for room in properties_raw:
         
+        id = int(room.get('id').replace('property-', ''))
         prop_det = room.find('div', {'class':'propertyCard-details'})
         title = prop_det.find('address').text.strip()
         price = room.find('span', {'class':'propertyCard-priceValue'}).text
@@ -68,12 +69,13 @@ def get_houses_prov_list(pages=3):
         
         if postcode and postcode.split()[0].startswith(tuple(postcode_prfx)): 
             postcode_area = postcode.split()[0]
-            print(postcode)
+            print(postcode_area)
             town = postcode_df.loc[postcode_df['postcode'] == postcode_area, 'town'].item()
         else:
-            town = None
+            town = title.split(',')[-1]
 
         room_info = {
+            'id': id,
             'title': title,
             'price': price,
             'info': info,

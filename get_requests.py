@@ -30,15 +30,16 @@ def get_raw_properties_list(req_url, pages ,payload=default_payload):
 
 
 test_url = 'https://www.rightmove.co.uk/property-to-rent/find.html'
-run_test_payload = True
+run_def_payload = True
 
 if __name__ == '__main__':
-    if run_test_payload:
-        properties_raw = get_raw_properties_list(4, test_url, default_payload)
+    if run_def_payload:
+        properties_raw = get_raw_properties_list(test_url, 4, default_payload)
     else:
         test_payload = {}
-        properties_raw = get_raw_properties_list(4, test_url, test_payload)
+        properties_raw = get_raw_properties_list(test_url, 4, test_payload)
     
+    print(properties_raw)
     print(len(properties_raw))
 
 

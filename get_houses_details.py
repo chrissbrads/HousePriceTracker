@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import re
 from IPython.display import display
 from statistics import mean
+from itertools import repeat
 
 
 def get_qualifying_houses():
@@ -13,7 +14,9 @@ def get_qualifying_houses():
     # & (houses_prov_list['added_status'] == 'Added today')
     return houses_prov_list.loc[conditions]
 
-print(get_qualifying_houses())
+qualifying_houses = get_qualifying_houses()
+print(qualifying_houses)
+qualifying_houses.to_csv('data_files/results/qualifying.csv', index=False)
 
 def get_house_details():
     house_df = get_qualifying_houses()
@@ -27,7 +30,7 @@ def get_house_details():
 
         letting_details_raw = soup.find('dl', {'class': '_2E1qBJkWUYMJYHfYJzUb_r'})
         station_raw = soup.find('ul', {'class':'_2f-e_tRT-PqO8w8MBRckcn'})
-        stations = list(map(station_info, station_raw.find_all('li'), stn_line_df))
+        stations = list(map(station_info, station_raw.find_all('li'), repeat(stn_line_df)))
         let_available = letting_details_raw.find('div', {'class':'_2RnXSVJcWbWv4IpBC1Sng6'}).find('dd').text
         furnished = letting_details_raw.find('div', {'class': '_2RnXSVJcWbWv4IpBC1Sng6'}).find('dd').text
         info_reel = soup.find('div', {'class': '_4hBezflLdgDMdFtURKTWh'})
@@ -35,14 +38,18 @@ def get_house_details():
         key_info = [item.text for item in info_reel.find_all('dd', {'class': '_1hV1kqpVceE9m-QrX_hWDN'})]
         info_name = [item.text.lower() for item in info_reel.find_all('dt', {'class':'ZBWaPR-rIda6ikyKpB_E2'})]
         info_dict = dict(zip(info_name, key_info))
-        print(info_dict)
         
         house_type = info_dict.get('property type')
         
         bathrooms = convert_nums(info_dict, 'bathrooms')
         bedrooms = convert_nums(info_dict, 'bedrooms')
 
-        zone = min([i['zone'] for i in stations if i['zone'] is not None], default=None)
+        z_ls = [i['zone'] for i in stations if i['zone'] is not None]
+        
+        if z_ls:
+            zone = mean(z_ls)
+        else:
+            zone = None
 
         details = {
             'house_type': house_type,
@@ -66,7 +73,8 @@ def convert_nums(my_dict, dict_field):
 
     return val
 
-def station_info(station,df):
+
+def station_info(station, df):
     stn_name = station.find('span', {'class':'cGDiWU3FlTjqSs-F1LwK4'}).text
     stn_dist_str = station.find('span', {'class':'_1ZY603T1ryTT3dMgGkM7Lg'}).text
     stn_network = station.find('svg').get('data-testid').split('-')[-1]
@@ -76,13 +84,12 @@ def station_info(station,df):
     stn_name = ' '.join([word.title() for word in stn_name.lower().split() if word not in stop_words])
 
     stn_dist = float(stn_dist_str.replace(' miles', ''))
-
     station_mask = df['station'] == stn_name
     stn_inf = df.loc[station_mask]
     stn_line = stn_inf['line'].tolist()
     
     if stn_line:
-        stn_zone = mean(stn_inf['zone'].tolist())
+        stn_zone = max(stn_inf['zone'].tolist())
     else:
         stn_line = None
         stn_zone = None
@@ -91,10 +98,8 @@ def station_info(station,df):
 
 
 merged = pd.merge(get_qualifying_houses(), get_house_details(), how='inner', left_index=True, right_index=True).rename(columns={'bedrooms_y':'bedrooms'})
-
-
-cols = ['title', 'price', 'postcode', 'rent_per_pers', 'town', 'zone', 'url', 'added_status', 'house_type',
-       'bedrooms_y', 'bathrooms', 'available', 'stations', 'description']
+print(merged.columns)
+cols = ['id','title','price', 'postcode','rent_per_pers','town','zone','url','added_status','house_type','bedrooms','bathrooms','available','stations','description']
 
 display(merged[cols])
 
