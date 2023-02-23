@@ -18,29 +18,7 @@ print(get_qualifying_houses())
 def get_house_details():
     house_df = get_qualifying_houses()
     room_list = []
-    stn_line_df = pd.read_csv('data_files/cleaned/tfl_lines.csv')
-    patt = re.compile('(\s*)Station$')
-
-    def station_info(station):
-        stn_name = station.find('span', {'class':'cGDiWU3FlTjqSs-F1LwK4'}).text
-        stn_dist_str = station.find('span', {'class':'_1ZY603T1ryTT3dMgGkM7Lg'}).text
-        stn_network = station.find('svg').get('data-testid').split('-')[-1]
-
-        stn_name = patt.sub('', stn_name)
-        stn_dist = float(stn_dist_str.replace(' miles', ''))
-
-        station_mask = stn_line_df['station'] == stn_name
-        stn_inf = stn_line_df.loc[station_mask]
-        stn_line = stn_inf['line'].tolist()
-        
-        if stn_line:
-            stn_zone = mean(stn_inf['zone'].tolist())
-        else:
-            stn_line = None
-            stn_zone = None
-
-        return {'station_name': stn_name, 'distance (miles)': stn_dist, 'network':stn_network, 'line': stn_line, 'zone': stn_zone}
-
+    stn_line_df = pd.read_csv('data_files/cleaned/all_lines.csv')
 
     for room in house_df.itertuples():
         url = room.url
@@ -49,7 +27,7 @@ def get_house_details():
 
         letting_details_raw = soup.find('dl', {'class': '_2E1qBJkWUYMJYHfYJzUb_r'})
         station_raw = soup.find('ul', {'class':'_2f-e_tRT-PqO8w8MBRckcn'})
-        stations = list(map(station_info, station_raw.find_all('li')))
+        stations = list(map(station_info, station_raw.find_all('li'), stn_line_df))
         let_available = letting_details_raw.find('div', {'class':'_2RnXSVJcWbWv4IpBC1Sng6'}).find('dd').text
         furnished = letting_details_raw.find('div', {'class': '_2RnXSVJcWbWv4IpBC1Sng6'}).find('dd').text
         info_reel = soup.find('div', {'class': '_4hBezflLdgDMdFtURKTWh'})
@@ -88,8 +66,32 @@ def convert_nums(my_dict, dict_field):
 
     return val
 
+def station_info(station,df):
+    stn_name = station.find('span', {'class':'cGDiWU3FlTjqSs-F1LwK4'}).text
+    stn_dist_str = station.find('span', {'class':'_1ZY603T1ryTT3dMgGkM7Lg'}).text
+    stn_network = station.find('svg').get('data-testid').split('-')[-1]
 
-merged = pd.merge(get_qualifying_houses(), get_house_details(), how='inner', left_index=True, right_index=True)
+    # stn_name = patt.sub('', stn_name)
+    stop_words = ['station', 'underground']
+    stn_name = ' '.join([word.title() for word in stn_name.lower().split() if word not in stop_words])
+
+    stn_dist = float(stn_dist_str.replace(' miles', ''))
+
+    station_mask = df['station'] == stn_name
+    stn_inf = df.loc[station_mask]
+    stn_line = stn_inf['line'].tolist()
+    
+    if stn_line:
+        stn_zone = mean(stn_inf['zone'].tolist())
+    else:
+        stn_line = None
+        stn_zone = None
+
+    return {'station_name': stn_name, 'distance (miles)': stn_dist, 'network':stn_network, 'line': stn_line, 'zone': stn_zone}
+
+
+merged = pd.merge(get_qualifying_houses(), get_house_details(), how='inner', left_index=True, right_index=True).rename(columns={'bedrooms_y':'bedrooms'})
+
 
 cols = ['title', 'price', 'postcode', 'rent_per_pers', 'town', 'zone', 'url', 'added_status', 'house_type',
        'bedrooms_y', 'bathrooms', 'available', 'stations', 'description']

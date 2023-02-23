@@ -4,12 +4,12 @@ Acton Central,London Overground,2.0
 Acton Main Line,Elizabeth Line,3.0
 Acton Town,Piccadilly Line,3.0
 Acton Town,District Line,3.0
-Albany Park,Southeastern,5.0
+Albany Park,National Rail (Southeastern),5.0
 Aldgate,Metropolitan Line,1.0
 Aldgate,Circle Line,1.0
 Aldgate East,District Line,1.0
 Aldgate East,Hammersmith & City Line,1.0
-Alexandra Palace,Great Northern,3.0
+Alexandra Palace,National Rail (Great Northern),3.0
 All Saints,Docklands Light Railway,2.0
 Alperton,Piccadilly Line,4.0
 Amersham,Metropolitan Line,9.0
@@ -23,51 +23,51 @@ Baker Street,Hammersmith & City Line,1.0
 Baker Street,Jubilee Line,1.0
 Baker Street,Bakerloo Line,1.0
 Baker Street,Circle Line,1.0
-Balham,Southern,3.0
+Balham,National Rail (Southern),3.0
 Balham,Northern Line,3.0
 Bank,Docklands Light Railway,1.0
 Bank,Waterloo & City Line,1.0
 Bank,Northern Line,1.0
 Bank,Central Line,1.0
-Banstead,Southern,6.0
+Banstead,National Rail (Southern),6.0
 Barbican,Hammersmith & City Line,1.0
 Barbican,Metropolitan Line,1.0
 Barbican,Circle Line,1.0
 Barking,Hammersmith & City Line,4.0
 Barking,District Line,4.0
 Barking,London Overground,4.0
-Barking,c2c,4.0
+Barking,National Rail (c2c),4.0
 Barking Riverside,London Overground,4.0
 Barkingside,Central Line,4.0
-Barnehurst,Southeastern,6.0
-Barnes,South Western Railway,3.0
-Barnes Bridge,South Western Railway,3.0
+Barnehurst,National Rail (Southeastern),6.0
+Barnes,National Rail (South Western Railway),3.0
+Barnes Bridge,National Rail (South Western Railway),3.0
 Barons Court,District Line,2.0
 Barons Court,Piccadilly Line,2.0
-Battersea Park,Southern,2.0
+Battersea Park,National Rail (Southern),2.0
 Bayswater,District Line,1.0
 Bayswater,Circle Line,1.0
-Beckenham Hill,Thameslink,4.0
-Beckenham Junction,Southeastern,4.0
+Beckenham Hill,National Rail (Thameslink),4.0
+Beckenham Junction,National Rail (Southeastern),4.0
 Beckton,Docklands Light Railway,3.0
 Beckton Park,Docklands Light Railway,3.0
 Becontree,District Line,5.0
-Bellingham,Southeastern,3.0
-Belmont,Southern,5.0
+Bellingham,National Rail (Southeastern),3.0
+Belmont,National Rail (Southern),5.0
 Belsize Park,Northern Line,2.0
-Belvedere,Southeastern,5.0
+Belvedere,National Rail (Southeastern),5.0
 Bermondsey,Jubilee Line,2.0
-Berrylands,South Western Railway,5.0
+Berrylands,National Rail (South Western Railway),5.0
 Bethnal Green,Central Line,2.0
 Bethnal Green,London Overground,2.0
-Bexley,Southeastern,6.0
-Bexleyheath,Southeastern,5.0
-Bickley,Southeastern,5.0
-Birkbeck,Southern,4.0
+Bexley,National Rail (Southeastern),6.0
+Bexleyheath,National Rail (Southeastern),5.0
+Bickley,National Rail (Southeastern),5.0
+Birkbeck,National Rail (Southern),4.0
 Blackfriars,Circle Line,1.0
 Blackfriars,District Line,1.0
-Blackfriars,Thameslink,1.0
-Blackheath,Southeastern,3.0
+Blackfriars,National Rail (Thameslink),1.0
+Blackheath,National Rail (Southeastern),3.0
 Blackhorse Road,Victoria Line,3.0
 Blackhorse Road,London Overground,3.0
 Blackwall,Docklands Light Railway,2.0
@@ -80,16 +80,16 @@ Bounds Green,Piccadilly Line,3.5
 Bow Church,Docklands Light Railway,2.0
 Bow Road,District Line,2.0
 Bow Road,Hammersmith & City Line,2.0
-Bowes Park,Great Northern,3.5
+Bowes Park,National Rail (Great Northern),3.5
 Brent Cross,Northern Line,3.0
-Brentford,South Western Railway,4.0
+Brentford,National Rail (South Western Railway),4.0
 Brentwood,Elizabeth Line,7.0
-Brimsdown,Greater Anglia,5.0
-Brixton,Southeastern,2.0
+Brimsdown,National Rail (Greater Anglia),5.0
+Brixton,National Rail (Southeastern),2.0
 Brixton,Victoria Line,2.0
 Brockley,London Overground,2.0
-Bromley North,Southeastern,4.0
-Bromley South,Southeastern,5.0
+Bromley North,National Rail (Southeastern),4.0
+Bromley South,National Rail (Southeastern),5.0
 Bromley-By-Bow,District Line,2.5
 Bromley-By-Bow,Hammersmith & City Line,2.5
 Brondesbury,London Overground,2.0
@@ -112,59 +112,59 @@ Canary Wharf,Docklands Light Railway,2.0
 Canary Wharf,Elizabeth Line,2.0
 Canning Town,Jubilee Line,2.5
 Canning Town,Docklands Light Railway,2.5
-Cannon Street,Network Rail,1.0
+Cannon Street,National Rail (Network Rail),1.0
 Cannon Street,District Line,1.0
 Cannon Street,Circle Line,1.0
 Canonbury,London Overground,2.0
 Canons Park,Jubilee Line,5.0
 Carpenders Park,London Overground,7.0
-Carshalton,Southern,5.0
-Carshalton Beeches,Southern,5.0
-Castle Bar Park,Great Western Railway,4.0
-Caterham,Southern,6.0
-Catford,Southeastern,3.0
-Catford Bridge,Southeastern,3.0
+Carshalton,National Rail (Southern),5.0
+Carshalton Beeches,National Rail (Southern),5.0
+Castle Bar Park,National Rail (Great Western Railway),4.0
+Caterham,National Rail (Southern),6.0
+Catford,National Rail (Southeastern),3.0
+Catford Bridge,National Rail (Southeastern),3.0
 Chadwell Heath,Elizabeth Line,5.0
 Chalfont & Latimer,Metropolitan Line,8.0
 Chalk Farm,Northern Line,2.0
 Chancery Lane,Central Line,1.0
-Charing Cross,Network Rail,1.0
+Charing Cross,National Rail (Network Rail),1.0
 Charing Cross,Northern Line,1.0
 Charing Cross,Bakerloo Line,1.0
-Charlton,Southeastern,3.0
-Cheam,Southern,5.0
-Chelsfield,Southeastern,6.0
+Charlton,National Rail (Southeastern),3.0
+Cheam,National Rail (Southern),5.0
+Chelsfield,National Rail (Southeastern),6.0
 Chesham,Metropolitan Line,9.0
-Cheshunt,Greater Anglia,8.0
+Cheshunt,National Rail (Greater Anglia),8.0
 Cheshunt,London Overground,8.0
-Chessington North,South Western Railway,6.0
-Chessington South,South Western Railway,6.0
+Chessington North,National Rail (South Western Railway),6.0
+Chessington South,National Rail (South Western Railway),6.0
 Chigwell,Central Line,4.0
 Chingford,London Overground,5.0
-Chipstead,Southern,6.0
-Chislehurst,Southeastern,5.0
-Chiswick,South Western Railway,3.0
+Chipstead,National Rail (Southern),6.0
+Chislehurst,National Rail (Southeastern),5.0
+Chiswick,National Rail (South Western Railway),3.0
 Chiswick Park,District Line,3.0
 Chorleywood,Metropolitan Line,7.0
-City Thameslink,Thameslink,1.0
+City Thameslink,National Rail (Thameslink),1.0
 Clapham Common,Northern Line,2.0
 Clapham High Street,London Overground,2.0
-Clapham Junction,South Western Railway,2.0
+Clapham Junction,National Rail (South Western Railway),2.0
 Clapham Junction,London Overground,2.0
 Clapham North,Northern Line,2.0
 Clapham South,Northern Line,2.5
 Clapton,London Overground,2.0
-Clock House,Southeastern,4.0
+Clock House,National Rail (Southeastern),4.0
 Cockfosters,Piccadilly Line,5.0
 Colindale,Northern Line,4.0
 Colliers Wood,Northern Line,3.0
-Coulsdon South,Southern,6.0
-Coulsdon Town,Southern,6.0
+Coulsdon South,National Rail (Southern),6.0
+Coulsdon Town,National Rail (Southern),6.0
 Covent Garden,Piccadilly Line,1.0
-Crayford,Southeastern,6.0
-Crews Hill,Great Northern,6.0
-Cricklewood,Thameslink,3.0
-Crofton Park,Southeastern,3.0
+Crayford,National Rail (Southeastern),6.0
+Crews Hill,National Rail (Great Northern),6.0
+Cricklewood,National Rail (Thameslink),3.0
+Crofton Park,National Rail (Southeastern),3.0
 Crossharbour & London Arena,Docklands Light Railway,2.0
 Crouch Hill,London Overground,3.0
 Croxley,Metropolitan Line,7.0
@@ -173,21 +173,21 @@ Custom House,Docklands Light Railway,3.0
 Custom House,Elizabeth Line,3.0
 Cutty Sark,Docklands Light Railway,2.5
 Cyprus,Docklands Light Railway,3.0
-Dagenham Dock,c2c,5.0
+Dagenham Dock,National Rail (c2c),5.0
 Dagenham East,District Line,5.0
 Dagenham Heathway,District Line,5.0
 Dalston Junction,London Overground,2.0
 Dalston Kingsland,London Overground,2.0
-Dartford,Southeastern,8.0
+Dartford,National Rail (Southeastern),8.0
 Debden,Central Line,6.0
 Denmark Hill,London Overground,2.0
-Denmark Hill,Thameslink,2.0
-Deptford,Southeastern,2.0
+Denmark Hill,National Rail (Thameslink),2.0
+Deptford,National Rail (Southeastern),2.0
 Deptford Bridge,Docklands Light Railway,2.5
 Devons Road,Docklands Light Railway,2.0
 Dollis Hill,Jubilee Line,3.0
-Drayton Green,Great Western Railway,4.0
-Drayton Park,Great Northern,2.0
+Drayton Green,National Rail (Great Western Railway),4.0
+Drayton Park,National Rail (Great Northern),2.0
 Ealing Broadway,District Line,3.0
 Ealing Broadway,Central Line,3.0
 Ealing Broadway,Elizabeth Line,3.0
@@ -195,10 +195,10 @@ Ealing Common,Piccadilly Line,3.0
 Ealing Common,District Line,3.0
 Earl's Court,District Line,1.5
 Earl's Court,Piccadilly Line,1.5
-Earlsfield,South Western Railway,3.0
+Earlsfield,National Rail (South Western Railway),3.0
 East Acton,Central Line,2.0
-East Croydon,Southern,5.0
-East Dulwich,Southern,2.0
+East Croydon,National Rail (Southern),5.0
+East Dulwich,National Rail (Southern),2.0
 East Finchley,Northern Line,3.0
 East Ham,Hammersmith & City Line,3.5
 East Ham,District Line,3.5
@@ -206,7 +206,7 @@ East India,Docklands Light Railway,2.5
 East Putney,District Line,2.5
 Eastcote,Metropolitan Line,5.0
 Eastcote,Piccadilly Line,5.0
-Eden Park,Southeastern,5.0
+Eden Park,National Rail (Southeastern),5.0
 Edgware,Northern Line,5.0
 Edgware Road (B),Bakerloo Line,1.0
 Edgware Road (C),Circle Line,1.0
@@ -215,57 +215,57 @@ Edgware Road (C),District Line,1.0
 Edmonton Green,London Overground,4.0
 Elephant & Castle,Bakerloo Line,1.5
 Elephant & Castle,Northern Line,1.5
-Elephant & Castle,Thameslink,1.5
+Elephant & Castle,National Rail (Thameslink),1.5
 Elm Park,District Line,6.0
-Elmers End,Southeastern,4.0
-Elmstead Woods,Southeastern,4.0
-Elstree & Borehamwood,Thameslink,6.0
-Eltham,Southeastern,4.0
+Elmers End,National Rail (Southeastern),4.0
+Elmstead Woods,National Rail (Southeastern),4.0
+Elstree & Borehamwood,National Rail (Thameslink),6.0
+Eltham,National Rail (Southeastern),4.0
 Elverson Road,Docklands Light Railway,2.5
 Embankment,Northern Line,1.0
 Embankment,Circle Line,1.0
 Embankment,District Line,1.0
 Embankment,Bakerloo Line,1.0
 Emerson Park,London Overground,6.0
-Enfield Chase,Great Northern,5.0
-Enfield Lock,Greater Anglia,6.0
+Enfield Chase,National Rail (Great Northern),5.0
+Enfield Lock,National Rail (Greater Anglia),6.0
 Enfield Town,London Overground,5.0
 Epping,Central Line,6.0
-Epsom Downs,Southern,6.0
-Erith,Southeastern,6.0
-Essex Road,Great Northern,2.0
+Epsom Downs,National Rail (Southern),6.0
+Erith,National Rail (Southeastern),6.0
+Essex Road,National Rail (Great Northern),2.0
 Euston,Victoria Line,1.0
 Euston,London Overground,1.0
 Euston,Northern Line,1.0
-Euston,Network Rail,1.0
+Euston,National Rail (Network Rail),1.0
 Euston Square,Circle Line,1.0
 Euston Square,Metropolitan Line,1.0
 Euston Square,Hammersmith & City Line,1.0
-Ewell East,Southern,6.0
-Ewell West,South Western Railway,6.0
+Ewell East,National Rail (Southern),6.0
+Ewell West,National Rail (South Western Railway),6.0
 Fairlop,Central Line,4.0
-Falconwood,Southeastern,4.0
+Falconwood,National Rail (Southeastern),4.0
 Farringdon,Circle Line,1.0
 Farringdon,Elizabeth Line,1.0
 Farringdon,Metropolitan Line,1.0
 Farringdon,Hammersmith & City Line,1.0
-Feltham,South Western Railway,6.0
-Fenchurch Street,c2c,1.0
+Feltham,National Rail (South Western Railway),6.0
+Fenchurch Street,National Rail (c2c),1.0
 Finchley Central,Northern Line,4.0
 Finchley Road,Metropolitan Line,2.0
 Finchley Road,Jubilee Line,2.0
 Finchley Road and Frognal,London Overground,2.0
 Finsbury Park,Victoria Line,2.0
 Finsbury Park,Piccadilly Line,2.0
-Finsbury Park,Great Northern,2.0
+Finsbury Park,National Rail (Great Northern),2.0
 Forest Gate,Elizabeth Line,3.0
 Forest Hill,London Overground,3.0
 Fulham Broadway,District Line,2.0
-Fulwell,South Western Railway,6.0
+Fulwell,National Rail (South Western Railway),6.0
 Gallions Reach,Docklands Light Railway,3.0
 Gants Hill,Central Line,4.0
 Gidea Park,Elizabeth Line,6.0
-Gipsy Hill,Southern,3.0
+Gipsy Hill,National Rail (Southern),3.0
 Gloucester Road,Piccadilly Line,1.0
 Gloucester Road,Circle Line,1.0
 Gloucester Road,District Line,1.0
@@ -273,10 +273,10 @@ Golders Green,Northern Line,3.0
 Goldhawk Road,Hammersmith & City Line,2.0
 Goodge Street,Northern Line,1.0
 Goodmayes,Elizabeth Line,4.0
-Gordon Hill,Great Northern,5.0
+Gordon Hill,National Rail (Great Northern),5.0
 Gospel Oak,London Overground,2.0
 Grange Hill,Central Line,4.0
-Grange Park,Great Northern,5.0
+Grange Park,National Rail (Great Northern),5.0
 Great Portland Street,Circle Line,1.0
 Great Portland Street,Hammersmith & City Line,1.0
 Great Portland Street,Metropolitan Line,1.0
@@ -285,15 +285,15 @@ Green Park,Piccadilly Line,1.0
 Green Park,Victoria Line,1.0
 Greenford,Central Line,4.0
 Greenwich,Docklands Light Railway,2.5
-Greenwich,Southeastern,2.5
-Grove Park,Southeastern,4.0
+Greenwich,National Rail (Southeastern),2.5
+Grove Park,National Rail (Southeastern),4.0
 Gunnersbury,London Overground,3.0
 Gunnersbury,District Line,3.0
-Hackbridge,Southern,4.0
+Hackbridge,National Rail (Southern),4.0
 Hackney Central,London Overground,2.0
 Hackney Downs,London Overground,2.0
 Hackney Wick,London Overground,2.0
-Hadley Wood,Great Northern,6.0
+Hadley Wood,National Rail (Great Northern),6.0
 Haggerston,London Overground,2.0
 Hainault,Central Line,4.0
 Hammersmith,District Line,2.0
@@ -301,37 +301,37 @@ Hammersmith,Hammersmith & City Line,2.0
 Hammersmith,Piccadilly Line,2.0
 Hampstead,Northern Line,2.5
 Hampstead Heath,London Overground,3.0
-Hampton,South Western Railway,6.0
-Hampton Court,South Western Railway,6.0
-Hampton Wick,South Western Railway,6.0
+Hampton,National Rail (South Western Railway),6.0
+Hampton Court,National Rail (South Western Railway),6.0
+Hampton Wick,National Rail (South Western Railway),6.0
 Hanger Lane,Central Line,3.0
 Hanwell,Elizabeth Line,4.0
 Harlesden,Bakerloo Line,3.0
 Harlesden,London Overground,3.0
 Harold Wood,Elizabeth Line,6.0
-Harringay,Great Northern,3.0
+Harringay,National Rail (Great Northern),3.0
 Harringay Green Lanes,London Overground,3.0
 Harrow & Wealdstone,Bakerloo Line,5.0
 Harrow and Wealdstone,London Overground,5.0
 Harrow-on-the-Hill,Metropolitan Line,5.0
 Hatch End,London Overground,6.0
 Hatton Cross,Piccadilly Line,5.5
-Haydons Road,Thameslink,3.0
-Hayes,Southeastern,5.0
+Haydons Road,National Rail (Thameslink),3.0
+Hayes,National Rail (Southeastern),5.0
 Hayes and Harlington,Elizabeth Line,5.0
 Headstone Lane,London Overground,5.0
-Heathrow Central,Heathrow Express,6.0
+Heathrow Central,National Rail (Heathrow Express),6.0
 Heathrow Terminal 4,Elizabeth Line,6.0
 Heathrow Terminal 4,Piccadilly Line,6.0
-Heathrow Terminal 4,Heathrow Express,6.0
+Heathrow Terminal 4,National Rail (Heathrow Express),6.0
 Heathrow Terminal 5,Elizabeth Line,6.0
 Heathrow Terminal 5,Piccadilly Line,6.0
-Heathrow Terminal 5,Heathrow Express,6.0
+Heathrow Terminal 5,National Rail (Heathrow Express),6.0
 Heathrow Terminals 1 2 3,Elizabeth Line,6.0
 "Heathrow Terminals 1, 2 & 3",Piccadilly Line,6.0
-Hendon,Thameslink,3.5
+Hendon,National Rail (Thameslink),3.5
 Hendon Central,Northern Line,3.5
-Herne Hill,Southeastern,2.5
+Herne Hill,National Rail (Southeastern),2.5
 Heron Quays,Docklands Light Railway,2.0
 High Barnet,Northern Line,5.0
 High Street Kensington,District Line,1.0
@@ -342,7 +342,7 @@ Highbury and Islington,London Overground,2.0
 Highgate,Northern Line,3.0
 Hillingdon,Metropolitan Line,6.0
 Hillingdon,Piccadilly Line,6.0
-Hither Green,Southeastern,3.0
+Hither Green,National Rail (Southeastern),3.0
 Holborn,Central Line,1.0
 Holborn,Piccadilly Line,1.0
 Holland Park,Central Line,2.0
@@ -350,8 +350,8 @@ Holloway Road,Piccadilly Line,2.0
 Homerton,London Overground,2.0
 Honor Oak Park,London Overground,3.0
 Hornchurch,District Line,6.0
-Hornsey,Great Northern,3.0
-Hounslow,South Western Railway,5.0
+Hornsey,National Rail (Great Northern),3.0
+Hounslow,National Rail (South Western Railway),5.0
 Hounslow Central,Piccadilly Line,4.0
 Hounslow East,Piccadilly Line,4.0
 Hounslow West,Piccadilly Line,5.0
@@ -362,29 +362,29 @@ Ickenham,Piccadilly Line,6.0
 Ilford,Elizabeth Line,4.0
 Imperial Wharf,London Overground,2.0
 Island Gardens,Docklands Light Railway,2.0
-Isleworth,South Western Railway,4.0
+Isleworth,National Rail (South Western Railway),4.0
 Iver,Elizabeth Line,
-Kenley,Southern,6.0
+Kenley,National Rail (Southern),6.0
 Kennington,Northern Line,2.0
 Kensal Green,Bakerloo Line,2.0
 Kensal Green,London Overground,2.0
 Kensal Rise,London Overground,2.0
 Kensington (Olympia),London Overground,2.0
 Kensington (Olympia),District Line,2.0
-Kent House,Southeastern,4.0
+Kent House,National Rail (Southeastern),4.0
 Kentish Town,Northern Line,2.0
 Kentish Town West,London Overground,2.0
 Kenton,London Overground,4.0
 Kenton,Bakerloo Line,4.0
-Kew Bridge,South Western Railway,3.0
+Kew Bridge,National Rail (South Western Railway),3.0
 Kew Gardens,District Line,3.5
 Kew Gardens,London Overground,3.5
-Kidbrooke,Southeastern,3.0
+Kidbrooke,National Rail (Southeastern),3.0
 Kilburn,Jubilee Line,2.0
 Kilburn High Road,London Overground,2.0
 Kilburn Park,Bakerloo Line,2.0
 King George V,Docklands Light Railway,3.0
-King's Cross,Network Rail,1.0
+King's Cross,National Rail (Network Rail),1.0
 King's Cross St. Pancras,Northern Line,1.0
 King's Cross St. Pancras,Circle Line,1.0
 King's Cross St. Pancras,Metropolitan Line,1.0
@@ -392,28 +392,28 @@ King's Cross St. Pancras,Piccadilly Line,1.0
 King's Cross St. Pancras,Victoria Line,1.0
 King's Cross St. Pancras,Hammersmith & City Line,1.0
 Kingsbury,Jubilee Line,4.0
-Kingston,South Western Railway,6.0
-Kingswood,Southern,6.0
+Kingston,National Rail (South Western Railway),6.0
+Kingswood,National Rail (Southern),6.0
 Knightsbridge,Piccadilly Line,1.0
-Knockholt,Southeastern,6.0
+Knockholt,National Rail (Southeastern),6.0
 Ladbroke Grove,Hammersmith & City Line,2.0
-Ladywell,Southeastern,3.0
+Ladywell,National Rail (Southeastern),3.0
 Lambeth North,Bakerloo Line,1.0
 Lancaster Gate,Central Line,1.0
 Langley,Elizabeth Line,
 Latimer Road,Hammersmith & City Line,2.0
 Latimer Road,Circle Line,2.0
-Lea Bridge,Greater Anglia,3.0
-Lee,Southeastern,3.0
+Lea Bridge,National Rail (Greater Anglia),3.0
+Lee,National Rail (Southeastern),3.0
 Leicester Square,Piccadilly Line,1.0
 Leicester Square,Northern Line,1.0
 Lewisham,Docklands Light Railway,2.5
-Lewisham,Southeastern,2.5
+Lewisham,National Rail (Southeastern),2.5
 Leyton,Central Line,3.0
 Leyton Midland Road,London Overground,3.0
 Leytonstone,Central Line,3.5
 Leytonstone High Road,London Overground,3.0
-Limehouse,c2c,2.0
+Limehouse,National Rail (c2c),2.0
 Limehouse,Docklands Light Railway,2.0
 Liverpool Street,Metropolitan Line,1.0
 Liverpool Street,Central Line,1.0
@@ -421,35 +421,35 @@ Liverpool Street,Elizabeth Line,1.0
 Liverpool Street,London Overground,1.0
 Liverpool Street,Hammersmith & City Line,1.0
 Liverpool Street,Circle Line,1.0
-Liverpool Street,Network Rail,1.0
-London Bridge,Network Rail,1.0
+Liverpool Street,National Rail (Network Rail),1.0
+London Bridge,National Rail (Network Rail),1.0
 London Bridge,Northern Line,1.0
 London Bridge,Jubilee Line,1.0
 London City Airport,Docklands Light Railway,3.0
 London Fields,London Overground,2.0
-Loughborough Junction,Thameslink,2.0
+Loughborough Junction,National Rail (Thameslink),2.0
 Loughton,Central Line,6.0
-Lower Sydenham,Southeastern,4.0
+Lower Sydenham,National Rail (Southeastern),4.0
 Maida Vale,Bakerloo Line,2.0
 Maidenhead,Elizabeth Line,
-Malden Manor,South Western Railway,4.0
+Malden Manor,National Rail (South Western Railway),4.0
 Manor House,Piccadilly Line,2.5
 Manor Park,Elizabeth Line,3.5
 Mansion House,District Line,1.0
 Mansion House,Circle Line,1.0
 Marble Arch,Central Line,1.0
 Maryland,Elizabeth Line,3.0
-Marylebone,Chiltern Railways,1.0
+Marylebone,National Rail (Chiltern Railways),1.0
 Marylebone,Bakerloo Line,1.0
-Maze Hill,Southeastern,3.0
-Meridian Water,Greater Anglia,4.0
+Maze Hill,National Rail (Southeastern),3.0
+Meridian Water,National Rail (Greater Anglia),4.0
 Mile End,Hammersmith & City Line,2.0
 Mile End,District Line,2.0
 Mile End,Central Line,2.0
-Mill Hill Broadway,Thameslink,4.0
+Mill Hill Broadway,National Rail (Thameslink),4.0
 Mill Hill East,Northern Line,4.0
-Mitcham Eastfields,Southern,3.0
-Mitcham Junction,Southern,4.0
+Mitcham Eastfields,National Rail (Southern),3.0
+Mitcham Junction,National Rail (Southern),4.0
 Monument,District Line,1.0
 Monument,Circle Line,1.0
 Moor Park,Metropolitan Line,6.5
@@ -458,36 +458,36 @@ Moorgate,Northern Line,1.0
 Moorgate,Metropolitan Line,1.0
 Moorgate,Circle Line,1.0
 Morden,Northern Line,4.0
-Morden South,Thameslink,4.0
+Morden South,National Rail (Thameslink),4.0
 Mornington Crescent,Northern Line,2.0
-Mortlake,South Western Railway,3.0
-Motspur Park,South Western Railway,4.0
-Mottingham,Southeastern,4.0
+Mortlake,National Rail (South Western Railway),3.0
+Motspur Park,National Rail (South Western Railway),4.0
+Mottingham,National Rail (Southeastern),4.0
 Mudchute,Docklands Light Railway,2.0
 Neasden,Jubilee Line,3.0
-New Barnet,Great Northern,5.0
-New Beckenham,Southeastern,4.0
-New Cross,Southeastern,2.0
+New Barnet,National Rail (Great Northern),5.0
+New Beckenham,National Rail (Southeastern),4.0
+New Cross,National Rail (Southeastern),2.0
 New Cross,London Overground,2.0
 New Cross Gate,London Overground,2.0
-New Eltham,Southeastern,4.0
-New Malden,South Western Railway,4.0
-New Southgate,Great Northern,4.0
+New Eltham,National Rail (Southeastern),4.0
+New Malden,National Rail (South Western Railway),4.0
+New Southgate,National Rail (Great Northern),4.0
 Newbury Park,Central Line,4.0
-Norbiton,South Western Railway,5.0
-Norbury,Southern,3.0
+Norbiton,National Rail (South Western Railway),5.0
+Norbury,National Rail (Southern),3.0
 North Acton,Central Line,2.5
-North Dulwich,Southern,2.5
+North Dulwich,National Rail (Southern),2.5
 North Ealing,Piccadilly Line,3.0
 North Greenwich,Jubilee Line,2.5
 North Harrow,Metropolitan Line,5.0
-North Sheen,South Western Railway,3.0
+North Sheen,National Rail (South Western Railway),3.0
 North Wembley,London Overground,4.0
 North Wembley,Bakerloo Line,4.0
 Northfields,Piccadilly Line,3.0
 Northolt,Central Line,5.0
-Northolt Park,Chiltern Railways,5.0
-Northumberland Park,Greater Anglia,3.0
+Northolt Park,National Rail (Chiltern Railways),5.0
+Northumberland Park,National Rail (Greater Anglia),3.0
 Northwick Park,Metropolitan Line,4.0
 Northwood,Metropolitan Line,6.0
 Northwood Hills,Metropolitan Line,6.0
@@ -495,11 +495,11 @@ Norwood Junction,London Overground,4.0
 Notting Hill Gate,Circle Line,1.5
 Notting Hill Gate,District Line,1.5
 Notting Hill Gate,Central Line,1.5
-Nunhead,Southeastern,2.0
-Oakleigh Park,Great Northern,4.0
+Nunhead,National Rail (Southeastern),2.0
+Oakleigh Park,National Rail (Great Northern),4.0
 Oakwood,Piccadilly Line,5.0
 Old Street,Northern Line,1.0
-Orpington,Southeastern,6.0
+Orpington,National Rail (Southeastern),6.0
 Osterley,Piccadilly Line,4.0
 Oval,Northern Line,2.0
 Oxford Circus,Bakerloo Line,1.0
@@ -510,56 +510,56 @@ Paddington,District Line,1.0
 Paddington,Circle Line,1.0
 Paddington,Hammersmith & City Line,1.0
 Paddington,Elizabeth Line,1.0
-Paddington,Network Rail,1.0
-Palmers Green,Great Northern,4.0
+Paddington,National Rail (Network Rail),1.0
+Palmers Green,National Rail (Great Northern),4.0
 Park Royal,Piccadilly Line,3.0
 Parsons Green,District Line,2.0
 Peckham Rye,London Overground,2.0
-Peckham Rye,Southern,2.0
-Penge East,Southeastern,4.0
+Peckham Rye,National Rail (Southern),2.0
+Penge East,National Rail (Southeastern),4.0
 Penge West,London Overground,4.0
 Perivale,Central Line,4.0
-Petts Wood,Southeastern,5.0
+Petts Wood,National Rail (Southeastern),5.0
 Piccadilly Circus,Piccadilly Line,1.0
 Piccadilly Circus,Bakerloo Line,1.0
 Pimlico,Victoria Line,1.0
 Pinner,Metropolitan Line,5.0
 Plaistow,Hammersmith & City Line,3.0
 Plaistow,District Line,3.0
-Plumstead,Southeastern,4.0
-Ponders End,Greater Anglia,5.0
+Plumstead,National Rail (Southeastern),4.0
+Ponders End,National Rail (Greater Anglia),5.0
 Pontoon Dock,Docklands Light Railway,3.0
 Poplar,Docklands Light Railway,2.0
 Preston Road,Metropolitan Line,4.0
 Prince Regent,Docklands Light Railway,3.0
 Pudding Mill Lane,Docklands Light Railway,2.5
-Purley,Southern,6.0
-Purley Oaks,Southern,6.0
-Putney,South Western Railway,2.5
+Purley,National Rail (Southern),6.0
+Purley Oaks,National Rail (Southern),6.0
+Putney,National Rail (South Western Railway),2.5
 Putney Bridge,District Line,2.0
 Queen's Park,Bakerloo Line,2.0
 Queens Park,London Overground,2.0
-Queens Road Peckham,Southern,2.0
+Queens Road Peckham,National Rail (Southern),2.0
 Queens Road Peckham,London Overground,2.0
 Queensbury,Jubilee Line,4.0
-Queenstown Road (Battersea),South Western Railway,2.0
+Queenstown Road (Battersea),National Rail (South Western Railway),2.0
 Queensway,Central Line,1.0
-Rainham,c2c,6.0
-Ravensbourne,Southeastern,4.0
+Rainham,National Rail (c2c),6.0
+Ravensbourne,National Rail (Southeastern),4.0
 Ravenscourt Park,District Line,2.0
 Rayners Lane,Piccadilly Line,5.0
 Rayners Lane,Metropolitan Line,5.0
-Raynes Park,South Western Railway,4.0
+Raynes Park,National Rail (South Western Railway),4.0
 Reading,Elizabeth Line,
 Rectory Road,London Overground,2.0
 Redbridge,Central Line,4.0
-Reedham,Southern,6.0
+Reedham,National Rail (Southern),6.0
 Regent's Park,Bakerloo Line,1.0
-Richmond,South Western Railway,4.0
+Richmond,National Rail (South Western Railway),4.0
 Richmond,District Line,4.0
 Richmond,London Overground,4.0
 Rickmansworth,Metropolitan Line,7.0
-Riddlesdown,Southern,6.0
+Riddlesdown,National Rail (Southern),6.0
 Roding Valley,Central Line,4.0
 Romford,Elizabeth Line,6.0
 Romford,London Overground,6.0
@@ -573,8 +573,8 @@ Ruislip Gardens,Central Line,5.0
 Ruislip Manor,Piccadilly Line,6.0
 Ruislip Manor,Metropolitan Line,6.0
 Russell Square,Piccadilly Line,1.0
-Sanderstead,Southern,6.0
-Selhurst,Southern,4.0
+Sanderstead,National Rail (Southern),6.0
+Selhurst,National Rail (Southern),4.0
 Seven Kings,Elizabeth Line,4.0
 Seven Sisters,London Overground,3.0
 Seven Sisters,Victoria Line,3.0
@@ -586,19 +586,19 @@ Shepherd's Bush (H),Circle Line,2.0
 Shepherd's Bush (H),Hammersmith & City Line,2.0
 Shepherds Bush,London Overground,2.0
 Shoreditch High Street,London Overground,1.0
-Shortlands,Southeastern,4.0
-Sidcup,Southeastern,5.0
+Shortlands,National Rail (Southeastern),4.0
+Sidcup,National Rail (Southeastern),5.0
 Silver Street,London Overground,4.0
-Slade Green,Southeastern,6.0
+Slade Green,National Rail (Southeastern),6.0
 Sloane Square,District Line,1.0
 Sloane Square,Circle Line,1.0
 Slough,Elizabeth Line,
 Snaresbrook,Central Line,4.0
 South Acton,London Overground,3.0
-South Bermondsey,Southern,2.0
-South Croydon,Southern,5.0
+South Bermondsey,National Rail (Southern),2.0
+South Croydon,National Rail (Southern),5.0
 South Ealing,Piccadilly Line,3.0
-South Greenford,Great Western Railway,4.0
+South Greenford,National Rail (Great Western Railway),4.0
 South Hampstead,London Overground,2.0
 South Harrow,Piccadilly Line,5.0
 South Kensington,Circle Line,1.0
@@ -606,10 +606,10 @@ South Kensington,District Line,1.0
 South Kensington,Piccadilly Line,1.0
 South Kenton,Bakerloo Line,4.0
 South Kenton,London Overground,4.0
-South Merton,Thameslink,4.0
+South Merton,National Rail (Thameslink),4.0
 South Quay,Docklands Light Railway,2.0
 South Ruislip,Central Line,5.0
-South Ruislip,Chiltern Railways,5.0
+South Ruislip,National Rail (Chiltern Railways),5.0
 South Tottenham,London Overground,3.0
 South Wimbledon,Northern Line,3.5
 South Woodford,Central Line,4.0
@@ -618,12 +618,12 @@ Southbury,London Overground,5.0
 Southfields,District Line,3.0
 Southgate,Piccadilly Line,4.0
 Southwark,Jubilee Line,1.0
-St Helier,Thameslink,4.0
+St Helier,National Rail (Thameslink),4.0
 St James Street,London Overground,3.0
-St Johns,Southeastern,2.0
-St Margarets,South Western Railway,4.0
-St Mary Cray,Southeastern,6.0
-St Pancras,Network Rail/Eurostar,1.0
+St Johns,National Rail (Southeastern),2.0
+St Margarets,National Rail (South Western Railway),4.0
+St Mary Cray,National Rail (Southeastern),6.0
+St Pancras,National Rail (Network Rail/Eurostar),1.0
 St. James's Park,Circle Line,1.0
 St. James's Park,District Line,1.0
 St. John's Wood,Jubilee Line,2.0
@@ -638,115 +638,115 @@ Stockwell,Victoria Line,2.0
 Stoke Newington,London Overground,2.0
 Stonebridge Park,London Overground,3.0
 Stonebridge Park,Bakerloo Line,3.0
-Stoneleigh,South Western Railway,5.0
+Stoneleigh,National Rail (South Western Railway),5.0
 Stratford,Central Line,2.5
 Stratford,Docklands Light Railway,2.5
 Stratford,Jubilee Line,2.5
 Stratford,Elizabeth Line,3.0
 Stratford,London Overground,3.0
-Stratford International,Southeastern,3.0
-Strawberry Hill,South Western Railway,5.0
-Streatham,Southern,3.0
-Streatham Common,Southern,3.0
-Streatham Hill,Southern,3.0
-Sudbury & Harrow Road,Chiltern Railways,4.0
+Stratford International,National Rail (Southeastern),3.0
+Strawberry Hill,National Rail (South Western Railway),5.0
+Streatham,National Rail (Southern),3.0
+Streatham Common,National Rail (Southern),3.0
+Streatham Hill,National Rail (Southern),3.0
+Sudbury & Harrow Road,National Rail (Chiltern Railways),4.0
 Sudbury Hill,Piccadilly Line,4.0
-Sudbury Hill Harrow,Chiltern Railways,4.0
+Sudbury Hill Harrow,National Rail (Chiltern Railways),4.0
 Sudbury Town,Piccadilly Line,4.0
-Sundridge Park,Southeastern,4.0
-Surbiton,South Western Railway,6.0
+Sundridge Park,National Rail (Southeastern),4.0
+Surbiton,National Rail (South Western Railway),6.0
 Surrey Quays,London Overground,2.0
-Sutton,Southern,5.0
-Sutton Common,Thameslink,4.0
-Swanley,Southeastern,8.0
+Sutton,National Rail (Southern),5.0
+Sutton Common,National Rail (Thameslink),4.0
+Swanley,National Rail (Southeastern),8.0
 Swiss Cottage,Jubilee Line,2.0
 Sydenham,London Overground,3.0
-Sydenham Hill,Southeastern,3.0
-Syon Lane,South Western Railway,4.0
-Tadworth,Southern,6.0
+Sydenham Hill,National Rail (Southeastern),3.0
+Syon Lane,National Rail (South Western Railway),4.0
+Tadworth,National Rail (Southern),6.0
 Taplow,Elizabeth Line,
-Tattenham Corner,Southern,6.0
-Teddington,South Western Railway,6.0
+Tattenham Corner,National Rail (Southern),6.0
+Teddington,National Rail (South Western Railway),6.0
 Temple,District Line,1.0
 Temple,Circle Line,1.0
-Thames Ditton,South Western Railway,6.0
+Thames Ditton,National Rail (South Western Railway),6.0
 Theobalds Grove,London Overground,7.0
 Theydon Bois,Central Line,6.0
-Thornton Heath,Southern,4.0
-Tolworth,South Western Railway,5.0
-Tooting,Thameslink,3.0
+Thornton Heath,National Rail (Southern),4.0
+Tolworth,National Rail (South Western Railway),5.0
+Tooting,National Rail (Thameslink),3.0
 Tooting Bec,Northern Line,3.0
 Tooting Broadway,Northern Line,3.0
 Tottenham Court Road,Elizabeth Line,1.0
 Tottenham Court Road,Northern Line,1.0
 Tottenham Court Road,Central Line,1.0
 Tottenham Hale,Victoria Line,3.0
-Tottenham Hale,Greater Anglia,3.0
+Tottenham Hale,National Rail (Greater Anglia),3.0
 Totteridge & Whetstone,Northern Line,4.0
 Tower Gateway,Docklands Light Railway,1.0
 Tower Hill,District Line,1.0
 Tower Hill,Circle Line,1.0
 Tufnell Park,Northern Line,2.0
-Tulse Hill,Southern,3.0
+Tulse Hill,National Rail (Southern),3.0
 Turkey Street,London Overground,6.0
 Turnham Green,Piccadilly Line,2.5
 Turnham Green,District Line,2.5
 Turnpike Lane,Piccadilly Line,3.0
-Twickenham,South Western Railway,5.0
+Twickenham,National Rail (South Western Railway),5.0
 Twyford,Elizabeth Line,
 Upminster,London Overground,6.0
 Upminster,District Line,6.0
-Upminster,c2c,6.0
+Upminster,National Rail (c2c),6.0
 Upminster Bridge,District Line,6.0
 Upney,District Line,4.0
 Upper Holloway,London Overground,2.0
-Upper Warlingham,Southern,6.0
+Upper Warlingham,National Rail (Southern),6.0
 Upton Park,Hammersmith & City Line,3.0
 Upton Park,District Line,3.0
 Uxbridge,Metropolitan Line,6.0
 Uxbridge,Piccadilly Line,6.0
-Vauxhall,South Western Railway,1.5
+Vauxhall,National Rail (South Western Railway),1.5
 Vauxhall,Victoria Line,1.5
 Victoria,Circle Line,1.0
 Victoria,Victoria Line,1.0
 Victoria,District Line,1.0
-Victoria,Network Rail,1.0
-Waddon,Southern,5.0
-Wallington,Southern,5.0
-Waltham Cross,Greater Anglia,7.0
+Victoria,National Rail (Network Rail),1.0
+Waddon,National Rail (Southern),5.0
+Wallington,National Rail (Southern),5.0
+Waltham Cross,National Rail (Greater Anglia),7.0
 Walthamstow Central,London Overground,3.0
 Walthamstow Central,Victoria Line,3.0
 Walthamstow Queens Road,London Overground,3.0
-Wandsworth Common,Southern,3.0
+Wandsworth Common,National Rail (Southern),3.0
 Wandsworth Road,London Overground,2.0
-Wandsworth Town,South Western Railway,2.0
+Wandsworth Town,National Rail (South Western Railway),2.0
 Wanstead,Central Line,4.0
 Wanstead Park,London Overground,3.0
 Wapping,London Overground,2.0
 Warren Street,Victoria Line,1.0
 Warren Street,Northern Line,1.0
 Warwick Avenue,Bakerloo Line,2.0
-Waterloo,Network Rail,1.0
+Waterloo,National Rail (Network Rail),1.0
 Waterloo,Bakerloo Line,1.0
 Waterloo,Jubilee Line,1.0
 Waterloo,Waterloo & City Line,1.0
 Waterloo,Northern Line,1.0
-Waterloo East,Southeastern,1.0
+Waterloo East,National Rail (Southeastern),1.0
 Watford,Metropolitan Line,7.0
 Watford High Street,London Overground,8.0
 Watford Junction,London Overground,
-Welling,Southeastern,4.0
+Welling,National Rail (Southeastern),4.0
 Wembley Central,London Overground,4.0
 Wembley Central,Bakerloo Line,4.0
 Wembley Park,Jubilee Line,4.0
 Wembley Park,Metropolitan Line,4.0
-Wembley Stadium,Chiltern Railways,4.0
+Wembley Stadium,National Rail (Chiltern Railways),4.0
 West Acton,Central Line,3.0
 West Brompton,London Overground,2.0
 West Brompton,District Line,2.0
 West Croydon,London Overground,5.0
 West Drayton,Elizabeth Line,6.0
-West Dulwich,Southeastern,3.0
+West Dulwich,National Rail (Southeastern),3.0
 West Ealing,Elizabeth Line,3.0
 West Finchley,Northern Line,4.0
 West Ham,Jubilee Line,2.5
@@ -754,18 +754,18 @@ West Ham,District Line,2.5
 West Ham,Hammersmith & City Line,2.5
 West Hampstead,Jubilee Line,2.0
 West Hampstead,London Overground,2.0
-West Hampstead Thameslink,Thameslink,2.0
+West Hampstead Thameslink,National Rail (Thameslink),2.0
 West Harrow,Metropolitan Line,5.0
 West India Quay,Docklands Light Railway,2.0
 West Kensington,District Line,2.0
-West Norwood,Southern,3.0
-West Ruislip,Chiltern Railways,6.0
+West Norwood,National Rail (Southern),3.0
+West Ruislip,National Rail (Chiltern Railways),6.0
 West Ruislip,Central Line,6.0
 West Silvertown,Docklands Light Railway,3.0
-West Sutton,Thameslink,5.0
-West Wickham,Southeastern,5.0
+West Sutton,National Rail (Thameslink),5.0
+West Wickham,National Rail (Southeastern),5.0
 Westbourne Park,Hammersmith & City Line,2.0
-Westcombe Park,Southeastern,3.0
+Westcombe Park,National Rail (Southeastern),3.0
 Westferry,Docklands Light Railway,2.0
 Westminster,Circle Line,1.0
 Westminster,District Line,1.0
@@ -776,26 +776,26 @@ Whitechapel,Elizabeth Line,2.0
 Whitechapel,London Overground,2.0
 Whitechapel,District Line,2.0
 Whitechapel,Hammersmith & City Line,2.0
-Whitton,South Western Railway,5.0
-Whyteleafe,Southern,6.0
-Whyteleafe South,Southern,6.0
+Whitton,National Rail (South Western Railway),5.0
+Whyteleafe,National Rail (Southern),6.0
+Whyteleafe South,National Rail (Southern),6.0
 Willesden Green,Jubilee Line,2.5
 Willesden Junction,London Overground,3.0
 Willesden Junction,Bakerloo Line,2.5
-Wimbledon,South Western Railway,3.0
+Wimbledon,National Rail (South Western Railway),3.0
 Wimbledon,District Line,3.0
-Wimbledon Chase,Thameslink,3.0
+Wimbledon Chase,National Rail (Thameslink),3.0
 Wimbledon Park,District Line,3.0
-Winchmore Hill,Great Northern,4.0
+Winchmore Hill,National Rail (Great Northern),4.0
 Wood Green,Piccadilly Line,3.0
 Wood Lane,Circle Line,2.0
 Wood Lane,Hammersmith & City Line,2.0
 Wood Street,London Overground,4.0
 Woodford,Central Line,4.0
 Woodgrange Park,London Overground,3.5
-Woodmansterne,Southern,6.0
+Woodmansterne,National Rail (Southern),6.0
 Woodside Park,Northern Line,4.0
 Woolwich,Elizabeth Line,4.0
-Woolwich Arsenal,Southeastern,4.0
-Woolwich Dockyard,Southeastern,3.0
-Worcester Park,South Western Railway,4.0
+Woolwich Arsenal,National Rail (Southeastern),4.0
+Woolwich Dockyard,National Rail (Southeastern),3.0
+Worcester Park,National Rail (South Western Railway),4.0

@@ -19,16 +19,19 @@ def convert_zone(str_zone):
 
     return zone
 
+def nr_line_info(line):
+    return f'National Rail ({line})'
+
 
 new_df['zone'] = new_df['zone'].map(convert_zone)
+new_df['line'] = new_df['line'].map(nr_line_info)
 
-
-#print(new_df)
+print(new_df)
 
 tfl_lines = pd.read_csv('data_files/cleaned/tfl_lines.csv')
 
 added_nr = pd.concat([tfl_lines, new_df.dropna(subset='zone')]).sort_values('station').reset_index(drop=True)
 
-print(added_nr.to_string())
+#print(added_nr.to_string())
 
 added_nr.to_csv('data_files/cleaned/all_lines.csv', index=False)
