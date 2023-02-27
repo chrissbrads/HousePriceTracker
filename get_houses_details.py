@@ -25,6 +25,7 @@ def get_house_details():
 
     for room in house_df.itertuples():
         url = room.url
+        id = room.id
         res = requests.get(url)
         soup = BeautifulSoup(res.content, 'html.parser')
 
@@ -52,6 +53,7 @@ def get_house_details():
             zone = None
 
         details = {
+            'id': id,
             'house_type': house_type,
             'bedrooms': bedrooms,
             'bathrooms': bathrooms,
@@ -63,7 +65,7 @@ def get_house_details():
 
         room_list.append(details)
     
-    return pd.DataFrame(room_list, index=house_df.index.copy())
+    return pd.DataFrame(room_list, index=house_df.index.copy()), house_df
 
 
 def convert_nums(my_dict, dict_field):
@@ -80,7 +82,7 @@ def station_info(station, df):
     stn_network = station.find('svg').get('data-testid').split('-')[-1]
 
     # stn_name = patt.sub('', stn_name)
-    stop_words = ['station', 'underground']
+    stop_words = ['station', 'underground', 'tram stop']
     stn_name = ' '.join([word.title() for word in stn_name.lower().split() if word not in stop_words])
 
     stn_dist = float(stn_dist_str.replace(' miles', ''))
@@ -97,11 +99,11 @@ def station_info(station, df):
     return {'station_name': stn_name, 'distance (miles)': stn_dist, 'network':stn_network, 'line': stn_line, 'zone': stn_zone}
 
 
-merged = pd.merge(get_qualifying_houses(), get_house_details(), how='inner', left_index=True, right_index=True).rename(columns={'bedrooms_y':'bedrooms'})
+house_details, qualifying_houses = get_house_details()
+
+merged = pd.merge(qualifying_houses, house_details, how='inner', on='id').rename(columns={'bedrooms_y':'bedrooms'})
 print(merged.columns)
 cols = ['id','title','price', 'postcode','rent_per_pers','town','zone','url','added_status','house_type','bedrooms','bathrooms','available','stations','description']
-
 display(merged[cols])
-
 merged[cols].to_csv('data_files/results/results_list.csv')
 
