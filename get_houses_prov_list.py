@@ -7,11 +7,6 @@ from get_requests import get_raw_properties_list
 output_csv_flag = False
 
 def get_houses_prov_list(pages=3):
-    
-    # urls = r"https://www.rightmove.co.uk/property-to-rent/find.html?locationIdentifier=REGION%5E87490&minBedrooms=2&maxPrice=3000&propertyTypes=&includeLetAgreed=false&mustHave=&dontShow=&furnishTypes=&keywords="
-    # res = requests.get(url)
-    # soup = BeautifulSoup(res.content, 'lxml')
-    # properties_raw = soup.find_all('div', {'class': 'l-searchResult is-list'})
 
     base_url = r'https://www.rightmove.co.uk'
     url = r'https://www.rightmove.co.uk/property-to-rent/find.html'
